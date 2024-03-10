@@ -1,0 +1,25 @@
+.sunProtectionTable {
+  width: 60%; 
+  height: auto; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.sunProtectionTable th, .sunProtectionTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  background-color: lightyellow ;
+}
+
+.sunProtectionTable th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sunProtectionTable tr:hover {
+  background-color: #ddd;
+}
+  

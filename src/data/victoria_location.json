@@ -1,0 +1,72 @@
+[
+    {
+        "Postcode": "3000",
+        "Suburb": "Melbourne",
+        "State": "VIC",
+        "Latitude": -37.81,
+        "Longitude": 144.97
+    },
+    {
+        "Postcode": "3001",
+        "Suburb": "Melbourne",
+        "State": "VIC",
+        "Latitude": -38.37,
+        "Longitude": 144.77
+    },
+    {
+        "Postcode": "3002",
+        "Suburb": "East Melbourne",
+        "State": "VIC",
+        "Latitude": -37.82,
+        "Longitude": 144.99
+    },
+    {
+        "Postcode": "3003",
+        "Suburb": "West Melbourne",
+        "State": "VIC",
+        "Latitude": -37.81,
+        "Longitude": 144.94
+    },
+    {
+        "Postcode": "3004",
+        "Suburb": "Melbourne",
+        "State": "VIC",
+        "Latitude": -37.84,
+        "Longitude": 144.98
+    },
+    {
+        "Postcode": "3004",
+        "Suburb": "St Kilda Road Central",
+        "State": "VIC",
+        "Latitude": -37.84,
+        "Longitude": 144.98
+    },
+    {
+        "Postcode": "3005",
+        "Suburb": "World Trade Centre",
+        "State": "VIC",
+        "Latitude": -37.82,
+        "Longitude": 144.95
+    },
+    {
+        "Postcode": "3006",
+        "Suburb": "South Wharf",
+        "State": "VIC",
+        "Latitude": -37.82,
+        "Longitude": 144.97
+    },
+    {
+        "Postcode": "3006",
+        "Suburb": "Southbank",
+        "State": "VIC",
+        "Latitude": -37.82,
+        "Longitude": 144.97
+    },
+    {
+        "Postcode": "3008",
+        "Suburb": "Docklands",
+        "State": "VIC",
+        "Latitude": -37.81,
+        "Longitude": 144.95
+    }
+]

@@ -1,0 +1,35 @@
+
+.header {
+    display: flex; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+}
+
+.header h1 {
+    margin-left: 30px;
+}
+.header h1:hover{
+    cursor: pointer;
+}
+
+.header h6 {
+    position: absolute; 
+    top:40px;
+    left: 45px;
+}
+
+.header button {
+    background-color: #FFC700;
+    border: 2px solid transparent; 
+    cursor: pointer; 
+    padding: 5px 10px;
+}
+
+.header button:hover {
+    border-color: #333;
+}
+
+.uvlevel{
+    margin-left: 500px;
+}

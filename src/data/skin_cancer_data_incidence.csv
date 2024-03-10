@@ -1,0 +1,1544 @@
+,Data type,Cancer group/site,Year,Sex,State or Territory,Count,"Age-standardised rate
+2001 Australian Standard Population 
+(per 100,000)","Age-standardised rate
+2023 Australian population 
+(per 100,000)",,ICD-10 codes
+36893,Incidence,Melanoma of the skin,1982,Males,Victoria,279,16.8,19.2, ,C43
+36894,Incidence,Melanoma of the skin,1982,Males,Queensland,472,49.3,56.9, ,C43
+36895,Incidence,Melanoma of the skin,1982,Males,Western Australia,164,31.1,35.6, ,C43
+36896,Incidence,Melanoma of the skin,1982,Males,South Australia,121,21.4,23.1, ,C43
+36897,Incidence,Melanoma of the skin,1982,Males,Tasmania,30,17.6,19.5, ,C43
+36898,Incidence,Melanoma of the skin,1982,Males,Australian Capital Territory,0,. .,. ., ,C43
+36899,Incidence,Melanoma of the skin,1982,Males,Northern Territory,0,. .,. ., ,C43
+36900,Incidence,Melanoma of the skin,1982,Males,Australia,1736,27.9,31.9, ,C43
+36901,Incidence,Melanoma of the skin,1982,Females,New South Wales,651,26.2,28.1, ,C43
+36902,Incidence,Melanoma of the skin,1982,Females,Victoria,365,19.9,21.8, ,C43
+36903,Incidence,Melanoma of the skin,1982,Females,Queensland,427,40.8,43.7, ,C43
+36904,Incidence,Melanoma of the skin,1982,Females,Western Australia,173,30.6,33.5, ,C43
+36905,Incidence,Melanoma of the skin,1982,Females,South Australia,127,21.1,22.2, ,C43
+36906,Incidence,Melanoma of the skin,1982,Females,Tasmania,38,20.1,22.5, ,C43
+36907,Incidence,Melanoma of the skin,1982,Females,Australian Capital Territory,0,. .,. ., ,C43
+36908,Incidence,Melanoma of the skin,1982,Females,Northern Territory,0,. .,. ., ,C43
+36909,Incidence,Melanoma of the skin,1982,Females,Australia,1802,26.3,28.4, ,C43
+36910,Incidence,Melanoma of the skin,1982,Persons,New South Wales,1301,27,30, ,C43
+36911,Incidence,Melanoma of the skin,1982,Persons,Victoria,644,18.4,20.5, ,C43
+36912,Incidence,Melanoma of the skin,1982,Persons,Queensland,899,44.2,49.1, ,C43
+36913,Incidence,Melanoma of the skin,1982,Persons,Western Australia,337,30.6,34.2, ,C43
+36914,Incidence,Melanoma of the skin,1982,Persons,South Australia,248,21.2,22.7, ,C43
+36915,Incidence,Melanoma of the skin,1982,Persons,Tasmania,68,18.8,21.1, ,C43
+36916,Incidence,Melanoma of the skin,1982,Persons,Australian Capital Territory,0,. .,. ., ,C43
+36917,Incidence,Melanoma of the skin,1982,Persons,Northern Territory,0,. .,. ., ,C43
+36918,Incidence,Melanoma of the skin,1982,Persons,Australia,3538,26.7,29.6, ,C43
+36919,Incidence,Melanoma of the skin,1983,Males,New South Wales,693,31.1,36, ,C43
+36920,Incidence,Melanoma of the skin,1983,Males,Victoria,319,18.8,21.6, ,C43
+36921,Incidence,Melanoma of the skin,1983,Males,Queensland,456,45.2,52.8, ,C43
+36922,Incidence,Melanoma of the skin,1983,Males,Western Australia,165,31,35.7, ,C43
+36923,Incidence,Melanoma of the skin,1983,Males,South Australia,120,20.8,23.7, ,C43
+36924,Incidence,Melanoma of the skin,1983,Males,Tasmania,31,17.8,20.8, ,C43
+36925,Incidence,Melanoma of the skin,1983,Males,Australian Capital Territory,0,. .,. ., ,C43
+36926,Incidence,Melanoma of the skin,1983,Males,Northern Territory,0,. .,. ., ,C43
+36927,Incidence,Melanoma of the skin,1983,Males,Australia,1820,28.8,33.3, ,C43
+36928,Incidence,Melanoma of the skin,1983,Females,New South Wales,730,29.3,31.3, ,C43
+36929,Incidence,Melanoma of the skin,1983,Females,Victoria,402,21.8,24, ,C43
+36930,Incidence,Melanoma of the skin,1983,Females,Queensland,461,41.5,44.4, ,C43
+36931,Incidence,Melanoma of the skin,1983,Females,Western Australia,165,27.4,29.8, ,C43
+36932,Incidence,Melanoma of the skin,1983,Females,South Australia,148,23.3,25.4, ,C43
+36933,Incidence,Melanoma of the skin,1983,Females,Tasmania,45,23.7,25.8, ,C43
+36934,Incidence,Melanoma of the skin,1983,Females,Australian Capital Territory,0,. .,. ., ,C43
+36935,Incidence,Melanoma of the skin,1983,Females,Northern Territory,0,. .,. ., ,C43
+36936,Incidence,Melanoma of the skin,1983,Females,Australia,1979,28.2,30.4, ,C43
+36937,Incidence,Melanoma of the skin,1983,Persons,New South Wales,1423,29.6,32.8, ,C43
+36938,Incidence,Melanoma of the skin,1983,Persons,Victoria,721,20.3,22.8, ,C43
+36939,Incidence,Melanoma of the skin,1983,Persons,Queensland,917,42.5,47.4, ,C43
+36940,Incidence,Melanoma of the skin,1983,Persons,Western Australia,330,28.8,32.1, ,C43
+36941,Incidence,Melanoma of the skin,1983,Persons,South Australia,268,21.9,24.4, ,C43
+36942,Incidence,Melanoma of the skin,1983,Persons,Tasmania,76,20.8,23.5, ,C43
+36943,Incidence,Melanoma of the skin,1983,Persons,Australian Capital Territory,0,. .,. ., ,C43
+36944,Incidence,Melanoma of the skin,1983,Persons,Northern Territory,0,. .,. ., ,C43
+36945,Incidence,Melanoma of the skin,1983,Persons,Australia,3799,28.1,31.3, ,C43
+36946,Incidence,Melanoma of the skin,1984,Males,New South Wales,762,33.8,39.4, ,C43
+36947,Incidence,Melanoma of the skin,1984,Males,Victoria,331,19.1,21.9, ,C43
+36948,Incidence,Melanoma of the skin,1984,Males,Queensland,535,52.7,60.6, ,C43
+36949,Incidence,Melanoma of the skin,1984,Males,Western Australia,173,31.5,36.5, ,C43
+36950,Incidence,Melanoma of the skin,1984,Males,South Australia,124,21.4,24.2, ,C43
+36951,Incidence,Melanoma of the skin,1984,Males,Tasmania,31,18.1,20.7, ,C43
+36952,Incidence,Melanoma of the skin,1984,Males,Australian Capital Territory,0,. .,. ., ,C43
+36953,Incidence,Melanoma of the skin,1984,Males,Northern Territory,0,. .,. ., ,C43
+36954,Incidence,Melanoma of the skin,1984,Males,Australia,1994,31.2,36, ,C43
+36955,Incidence,Melanoma of the skin,1984,Females,New South Wales,738,29.3,31.8, ,C43
+36956,Incidence,Melanoma of the skin,1984,Females,Victoria,414,21.8,23.9, ,C43
+36957,Incidence,Melanoma of the skin,1984,Females,Queensland,504,45.4,49.6, ,C43
+36958,Incidence,Melanoma of the skin,1984,Females,Western Australia,174,28.8,31.7, ,C43
+36959,Incidence,Melanoma of the skin,1984,Females,South Australia,160,24.2,27, ,C43
+36960,Incidence,Melanoma of the skin,1984,Females,Tasmania,35,18.2,21, ,C43
+36961,Incidence,Melanoma of the skin,1984,Females,Australian Capital Territory,0,. .,. ., ,C43
+36962,Incidence,Melanoma of the skin,1984,Females,Northern Territory,0,. .,. ., ,C43
+36963,Incidence,Melanoma of the skin,1984,Females,Australia,2050,28.8,31.5, ,C43
+36964,Incidence,Melanoma of the skin,1984,Persons,New South Wales,1500,30.9,34.7, ,C43
+36965,Incidence,Melanoma of the skin,1984,Persons,Victoria,745,20.4,22.8, ,C43
+36966,Incidence,Melanoma of the skin,1984,Persons,Queensland,1039,48.4,54.2, ,C43
+36967,Incidence,Melanoma of the skin,1984,Persons,Western Australia,347,29.8,33.5, ,C43
+36968,Incidence,Melanoma of the skin,1984,Persons,South Australia,284,22.8,25.6, ,C43
+36969,Incidence,Melanoma of the skin,1984,Persons,Tasmania,66,18.1,20.9, ,C43
+36970,Incidence,Melanoma of the skin,1984,Persons,Australian Capital Territory,0,. .,. ., ,C43
+36971,Incidence,Melanoma of the skin,1984,Persons,Northern Territory,0,. .,. ., ,C43
+36972,Incidence,Melanoma of the skin,1984,Persons,Australia,4044,29.6,33.2, ,C43
+36973,Incidence,Melanoma of the skin,1985,Males,New South Wales,831,36,41.9, ,C43
+36974,Incidence,Melanoma of the skin,1985,Males,Victoria,396,23.2,26.6, ,C43
+36975,Incidence,Melanoma of the skin,1985,Males,Queensland,547,51.4,60, ,C43
+36976,Incidence,Melanoma of the skin,1985,Males,Western Australia,212,38.7,44.7, ,C43
+36977,Incidence,Melanoma of the skin,1985,Males,South Australia,165,27.1,30.6, ,C43
+36978,Incidence,Melanoma of the skin,1985,Males,Tasmania,31,16,18.3, ,C43
+36979,Incidence,Melanoma of the skin,1985,Males,Australian Capital Territory,0,. .,. ., ,C43
+36980,Incidence,Melanoma of the skin,1985,Males,Northern Territory,0,. .,. ., ,C43
+36981,Incidence,Melanoma of the skin,1985,Males,Australia,2224,33.9,39.2, ,C43
+36982,Incidence,Melanoma of the skin,1985,Females,New South Wales,780,30,32.8, ,C43
+36983,Incidence,Melanoma of the skin,1985,Females,Victoria,472,24.6,26.7, ,C43
+36984,Incidence,Melanoma of the skin,1985,Females,Queensland,540,46.9,50.6, ,C43
+36985,Incidence,Melanoma of the skin,1985,Females,Western Australia,208,34.3,37, ,C43
+36986,Incidence,Melanoma of the skin,1985,Females,South Australia,198,29.9,33.4, ,C43
+36987,Incidence,Melanoma of the skin,1985,Females,Tasmania,49,24.5,26.2, ,C43
+36988,Incidence,Melanoma of the skin,1985,Females,Australian Capital Territory,0,. .,. ., ,C43
+36989,Incidence,Melanoma of the skin,1985,Females,Northern Territory,0,. .,. ., ,C43
+36990,Incidence,Melanoma of the skin,1985,Females,Australia,2288,31.4,34.1, ,C43
+36991,Incidence,Melanoma of the skin,1985,Persons,New South Wales,1611,32.3,36.5, ,C43
+36992,Incidence,Melanoma of the skin,1985,Persons,Victoria,868,23.6,26.2, ,C43
+36993,Incidence,Melanoma of the skin,1985,Persons,Queensland,1087,48.4,54.2, ,C43
+36994,Incidence,Melanoma of the skin,1985,Persons,Western Australia,420,35.8,39.9, ,C43
+36995,Incidence,Melanoma of the skin,1985,Persons,South Australia,363,28.6,32.2, ,C43
+36996,Incidence,Melanoma of the skin,1985,Persons,Tasmania,80,20.4,22.5, ,C43
+36997,Incidence,Melanoma of the skin,1985,Persons,Australian Capital Territory,0,. .,. ., ,C43
+36998,Incidence,Melanoma of the skin,1985,Persons,Northern Territory,0,. .,. ., ,C43
+36999,Incidence,Melanoma of the skin,1985,Persons,Australia,4512,32.1,36, ,C43
+37000,Incidence,Melanoma of the skin,1986,Males,New South Wales,915,38.4,44.6, ,C43
+37001,Incidence,Melanoma of the skin,1986,Males,Victoria,376,21.2,24.3, ,C43
+37002,Incidence,Melanoma of the skin,1986,Males,Queensland,639,58.9,68.2, ,C43
+37003,Incidence,Melanoma of the skin,1986,Males,Western Australia,226,38.8,44.6, ,C43
+37004,Incidence,Melanoma of the skin,1986,Males,South Australia,168,27.4,31.9, ,C43
+37005,Incidence,Melanoma of the skin,1986,Males,Tasmania,33,17.6,19.4, ,C43
+37006,Incidence,Melanoma of the skin,1986,Males,Australian Capital Territory,30,32.8,36.1, ,C43
+37007,Incidence,Melanoma of the skin,1986,Males,Northern Territory,6,13.5,15, ,C43
+37008,Incidence,Melanoma of the skin,1986,Males,Australia,2404,35.6,41.2, ,C43
+37009,Incidence,Melanoma of the skin,1986,Females,New South Wales,787,29.9,33, ,C43
+37010,Incidence,Melanoma of the skin,1986,Females,Victoria,452,23,25.5, ,C43
+37011,Incidence,Melanoma of the skin,1986,Females,Queensland,598,50.7,54.7, ,C43
+37012,Incidence,Melanoma of the skin,1986,Females,Western Australia,184,28.4,30.4, ,C43
+37013,Incidence,Melanoma of the skin,1986,Females,South Australia,188,28.4,31.1, ,C43
+37014,Incidence,Melanoma of the skin,1986,Females,Tasmania,54,26.7,28.8, ,C43
+37015,Incidence,Melanoma of the skin,1986,Females,Australian Capital Territory,27,25.9,26.9, ,C43
+37016,Incidence,Melanoma of the skin,1986,Females,Northern Territory,5,10.1,10.2, ,C43
+37017,Incidence,Melanoma of the skin,1986,Females,Australia,2305,31.1,33.9, ,C43
+37018,Incidence,Melanoma of the skin,1986,Persons,New South Wales,1702,33.5,37.9, ,C43
+37019,Incidence,Melanoma of the skin,1986,Persons,Victoria,828,22,24.8, ,C43
+37020,Incidence,Melanoma of the skin,1986,Persons,Queensland,1237,53.9,60.1, ,C43
+37021,Incidence,Melanoma of the skin,1986,Persons,Western Australia,410,33,36.7, ,C43
+37022,Incidence,Melanoma of the skin,1986,Persons,South Australia,356,27.6,31.1, ,C43
+37023,Incidence,Melanoma of the skin,1986,Persons,Tasmania,87,22.1,24.1, ,C43
+37024,Incidence,Melanoma of the skin,1986,Persons,Australian Capital Territory,57,28.9,30.9, ,C43
+37025,Incidence,Melanoma of the skin,1986,Persons,Northern Territory,11,11.9,12.8, ,C43
+37026,Incidence,Melanoma of the skin,1986,Persons,Australia,4709,32.8,36.8, ,C43
+37027,Incidence,Melanoma of the skin,1987,Males,New South Wales,1105,45,51.9, ,C43
+37028,Incidence,Melanoma of the skin,1987,Males,Victoria,481,26.1,29.4, ,C43
+37029,Incidence,Melanoma of the skin,1987,Males,Queensland,738,65.1,75.6, ,C43
+37030,Incidence,Melanoma of the skin,1987,Males,Western Australia,267,44.3,51.2, ,C43
+37031,Incidence,Melanoma of the skin,1987,Males,South Australia,185,30.4,35.6, ,C43
+37032,Incidence,Melanoma of the skin,1987,Males,Tasmania,45,21.9,24.3, ,C43
+37033,Incidence,Melanoma of the skin,1987,Males,Australian Capital Territory,36,37.5,41, ,C43
+37034,Incidence,Melanoma of the skin,1987,Males,Northern Territory,8,15.9,17.6, ,C43
+37035,Incidence,Melanoma of the skin,1987,Males,Australia,2877,41.2,47.4, ,C43
+37036,Incidence,Melanoma of the skin,1987,Females,New South Wales,1004,37.4,40.8, ,C43
+37037,Incidence,Melanoma of the skin,1987,Females,Victoria,516,25.9,28.4, ,C43
+37038,Incidence,Melanoma of the skin,1987,Females,Queensland,629,51.3,55.8, ,C43
+37039,Incidence,Melanoma of the skin,1987,Females,Western Australia,214,32.1,34.6, ,C43
+37040,Incidence,Melanoma of the skin,1987,Females,South Australia,201,29.3,33, ,C43
+37041,Incidence,Melanoma of the skin,1987,Females,Tasmania,68,33.1,35, ,C43
+37042,Incidence,Melanoma of the skin,1987,Females,Australian Capital Territory,33,30.6,31.6, ,C43
+37043,Incidence,Melanoma of the skin,1987,Females,Northern Territory,5,9,9, ,C43
+37044,Incidence,Melanoma of the skin,1987,Females,Australia,2685,35.3,38.5, ,C43
+37045,Incidence,Melanoma of the skin,1987,Persons,New South Wales,2109,40.6,45.5, ,C43
+37046,Incidence,Melanoma of the skin,1987,Persons,Victoria,997,25.9,28.9, ,C43
+37047,Incidence,Melanoma of the skin,1987,Persons,Queensland,1367,57.2,64.2, ,C43
+37048,Incidence,Melanoma of the skin,1987,Persons,Western Australia,481,37.6,41.9, ,C43
+37049,Incidence,Melanoma of the skin,1987,Persons,South Australia,386,29.6,34.1, ,C43
+37050,Incidence,Melanoma of the skin,1987,Persons,Tasmania,113,27.5,29.6, ,C43
+37051,Incidence,Melanoma of the skin,1987,Persons,Australian Capital Territory,69,33.6,35.7, ,C43
+37052,Incidence,Melanoma of the skin,1987,Persons,Northern Territory,13,12.8,13.8, ,C43
+37053,Incidence,Melanoma of the skin,1987,Persons,Australia,5562,37.8,42.3, ,C43
+37054,Incidence,Melanoma of the skin,1988,Males,New South Wales,1226,49.8,57.9, ,C43
+37055,Incidence,Melanoma of the skin,1988,Males,Victoria,562,31.4,35.7, ,C43
+37056,Incidence,Melanoma of the skin,1988,Males,Queensland,753,64.8,74.3, ,C43
+37057,Incidence,Melanoma of the skin,1988,Males,Western Australia,298,48.5,57.7, ,C43
+37058,Incidence,Melanoma of the skin,1988,Males,South Australia,231,37.9,42.9, ,C43
+37059,Incidence,Melanoma of the skin,1988,Males,Tasmania,62,30.7,34.3, ,C43
+37060,Incidence,Melanoma of the skin,1988,Males,Australian Capital Territory,40,42.5,46.9, ,C43
+37061,Incidence,Melanoma of the skin,1988,Males,Northern Territory,10,17.7,19.2, ,C43
+37062,Incidence,Melanoma of the skin,1988,Males,Australia,3199,45.7,52.7, ,C43
+37063,Incidence,Melanoma of the skin,1988,Females,New South Wales,1042,37.8,41.8, ,C43
+37064,Incidence,Melanoma of the skin,1988,Females,Victoria,564,27.5,30.2, ,C43
+37065,Incidence,Melanoma of the skin,1988,Females,Queensland,615,48.5,52.9, ,C43
+37066,Incidence,Melanoma of the skin,1988,Females,Western Australia,250,37.7,41.1, ,C43
+37067,Incidence,Melanoma of the skin,1988,Females,South Australia,227,33,36.1, ,C43
+37068,Incidence,Melanoma of the skin,1988,Females,Tasmania,68,32.4,35.7, ,C43
+37069,Incidence,Melanoma of the skin,1988,Females,Australian Capital Territory,35,33.2,34.9, ,C43
+37070,Incidence,Melanoma of the skin,1988,Females,Northern Territory,8,14.8,15.8, ,C43
+37071,Incidence,Melanoma of the skin,1988,Females,Australia,2820,36.1,39.7, ,C43
+37072,Incidence,Melanoma of the skin,1988,Persons,New South Wales,2268,42.9,48.6, ,C43
+37073,Incidence,Melanoma of the skin,1988,Persons,Victoria,1126,28.9,32.2, ,C43
+37074,Incidence,Melanoma of the skin,1988,Persons,Queensland,1368,56,62.6, ,C43
+37075,Incidence,Melanoma of the skin,1988,Persons,Western Australia,548,42,47.7, ,C43
+37076,Incidence,Melanoma of the skin,1988,Persons,South Australia,458,34.9,38.7, ,C43
+37077,Incidence,Melanoma of the skin,1988,Persons,Tasmania,130,31.8,35.3, ,C43
+37078,Incidence,Melanoma of the skin,1988,Persons,Australian Capital Territory,76,37.3,40.2, ,C43
+37079,Incidence,Melanoma of the skin,1988,Persons,Northern Territory,17,17,18.5, ,C43
+37080,Incidence,Melanoma of the skin,1988,Persons,Australia,6019,40.2,45.2, ,C43
+37081,Incidence,Melanoma of the skin,1989,Males,New South Wales,1215,48.3,56.8, ,C43
+37082,Incidence,Melanoma of the skin,1989,Males,Victoria,548,29.9,35.2, ,C43
+37083,Incidence,Melanoma of the skin,1989,Males,Queensland,746,62.8,72.8, ,C43
+37084,Incidence,Melanoma of the skin,1989,Males,Western Australia,263,41.9,49.7, ,C43
+37085,Incidence,Melanoma of the skin,1989,Males,South Australia,236,38.7,45.7, ,C43
+37086,Incidence,Melanoma of the skin,1989,Males,Tasmania,53,28.1,32.1, ,C43
+37087,Incidence,Melanoma of the skin,1989,Males,Australian Capital Territory,41,42,46.5, ,C43
+37088,Incidence,Melanoma of the skin,1989,Males,Northern Territory,11,18.8,20.5, ,C43
+37089,Incidence,Melanoma of the skin,1989,Males,Australia,3109,43.7,51.3, ,C43
+37090,Incidence,Melanoma of the skin,1989,Females,New South Wales,892,31.9,35.1, ,C43
+37091,Incidence,Melanoma of the skin,1989,Females,Victoria,561,27,30, ,C43
+37092,Incidence,Melanoma of the skin,1989,Females,Queensland,638,49.5,54.6, ,C43
+37093,Incidence,Melanoma of the skin,1989,Females,Western Australia,222,31.3,34.9, ,C43
+37094,Incidence,Melanoma of the skin,1989,Females,South Australia,199,28.4,30.9, ,C43
+37095,Incidence,Melanoma of the skin,1989,Females,Tasmania,62,27.3,29.7, ,C43
+37096,Incidence,Melanoma of the skin,1989,Females,Australian Capital Territory,38,34.6,36.6, ,C43
+37097,Incidence,Melanoma of the skin,1989,Females,Northern Territory,8,15.3,16.2, ,C43
+37098,Incidence,Melanoma of the skin,1989,Females,Australia,2617,32.9,36.2, ,C43
+37099,Incidence,Melanoma of the skin,1989,Persons,New South Wales,2107,39,44.5, ,C43
+37100,Incidence,Melanoma of the skin,1989,Persons,Victoria,1109,27.9,31.8, ,C43
+37101,Incidence,Melanoma of the skin,1989,Persons,Queensland,1384,55.4,62.5, ,C43
+37102,Incidence,Melanoma of the skin,1989,Persons,Western Australia,485,35.9,41.3, ,C43
+37103,Incidence,Melanoma of the skin,1989,Persons,South Australia,435,32.4,36.7, ,C43
+37104,Incidence,Melanoma of the skin,1989,Persons,Tasmania,115,27.2,29.9, ,C43
+37105,Incidence,Melanoma of the skin,1989,Persons,Australian Capital Territory,79,37.8,40.8, ,C43
+37106,Incidence,Melanoma of the skin,1989,Persons,Northern Territory,19,17.7,19.2, ,C43
+37107,Incidence,Melanoma of the skin,1989,Persons,Australia,5726,37.4,42.5, ,C43
+37108,Incidence,Melanoma of the skin,1990,Males,New South Wales,1168,46.8,55.4, ,C43
+37109,Incidence,Melanoma of the skin,1990,Males,Victoria,579,31.4,36.3, ,C43
+37110,Incidence,Melanoma of the skin,1990,Males,Queensland,765,62.9,73.8, ,C43
+37111,Incidence,Melanoma of the skin,1990,Males,Western Australia,297,45.9,53.9, ,C43
+37112,Incidence,Melanoma of the skin,1990,Males,South Australia,221,33.6,37.3, ,C43
+37113,Incidence,Melanoma of the skin,1990,Males,Tasmania,66,32.1,36.9, ,C43
+37114,Incidence,Melanoma of the skin,1990,Males,Australian Capital Territory,42,44.6,50.8, ,C43
+37115,Incidence,Melanoma of the skin,1990,Males,Northern Territory,13,25.7,28.7, ,C43
+37116,Incidence,Melanoma of the skin,1990,Males,Australia,3151,43.7,51.1, ,C43
+37117,Incidence,Melanoma of the skin,1990,Females,New South Wales,944,33.1,36.9, ,C43
+37118,Incidence,Melanoma of the skin,1990,Females,Victoria,522,24.9,27.7, ,C43
+37119,Incidence,Melanoma of the skin,1990,Females,Queensland,630,47.3,52.5, ,C43
+37120,Incidence,Melanoma of the skin,1990,Females,Western Australia,216,31,34.8, ,C43
+37121,Incidence,Melanoma of the skin,1990,Females,South Australia,247,34,38.1, ,C43
+37122,Incidence,Melanoma of the skin,1990,Females,Tasmania,85,38,42, ,C43
+37123,Incidence,Melanoma of the skin,1990,Females,Australian Capital Territory,38,34.2,36.6, ,C43
+37124,Incidence,Melanoma of the skin,1990,Females,Northern Territory,9,15.1,15.9, ,C43
+37125,Incidence,Melanoma of the skin,1990,Females,Australia,2687,33.1,37, ,C43
+37126,Incidence,Melanoma of the skin,1990,Persons,New South Wales,2112,38.9,44.6, ,C43
+37127,Incidence,Melanoma of the skin,1990,Persons,Victoria,1101,27.6,31.4, ,C43
+37128,Incidence,Melanoma of the skin,1990,Persons,Queensland,1395,54.1,61.6, ,C43
+37129,Incidence,Melanoma of the skin,1990,Persons,Western Australia,513,37.8,43.5, ,C43
+37130,Incidence,Melanoma of the skin,1990,Persons,South Australia,468,33.9,38, ,C43
+37131,Incidence,Melanoma of the skin,1990,Persons,Tasmania,151,34.8,39.2, ,C43
+37132,Incidence,Melanoma of the skin,1990,Persons,Australian Capital Territory,80,38.6,42.7, ,C43
+37133,Incidence,Melanoma of the skin,1990,Persons,Northern Territory,22,20.9,22.9, ,C43
+37134,Incidence,Melanoma of the skin,1990,Persons,Australia,5838,37.7,43, ,C43
+37135,Incidence,Melanoma of the skin,1991,Males,New South Wales,1151,44.9,53, ,C43
+37136,Incidence,Melanoma of the skin,1991,Males,Victoria,558,28.8,33.3, ,C43
+37137,Incidence,Melanoma of the skin,1991,Males,Queensland,771,60.5,70, ,C43
+37138,Incidence,Melanoma of the skin,1991,Males,Western Australia,336,51.1,59.5, ,C43
+37139,Incidence,Melanoma of the skin,1991,Males,South Australia,235,38.6,46, ,C43
+37140,Incidence,Melanoma of the skin,1991,Males,Tasmania,75,37.7,44.3, ,C43
+37141,Incidence,Melanoma of the skin,1991,Males,Australian Capital Territory,42,44.3,51, ,C43
+37142,Incidence,Melanoma of the skin,1991,Males,Northern Territory,15,29.1,32.4, ,C43
+37143,Incidence,Melanoma of the skin,1991,Males,Australia,3185,43.1,50.4, ,C43
+37144,Incidence,Melanoma of the skin,1991,Females,New South Wales,959,33.2,36.9, ,C43
+37145,Incidence,Melanoma of the skin,1991,Females,Victoria,571,26.5,29.6, ,C43
+37146,Incidence,Melanoma of the skin,1991,Females,Queensland,644,46.5,51.3, ,C43
+37147,Incidence,Melanoma of the skin,1991,Females,Western Australia,268,36.9,41.2, ,C43
+37148,Incidence,Melanoma of the skin,1991,Females,South Australia,225,30.7,34.5, ,C43
+37149,Incidence,Melanoma of the skin,1991,Females,Tasmania,68,31.4,33.8, ,C43
+37150,Incidence,Melanoma of the skin,1991,Females,Australian Capital Territory,38,32.6,35.4, ,C43
+37151,Incidence,Melanoma of the skin,1991,Females,Northern Territory,10,18.2,20.4, ,C43
+37152,Incidence,Melanoma of the skin,1991,Females,Australia,2782,33.6,37.3, ,C43
+37153,Incidence,Melanoma of the skin,1991,Persons,New South Wales,2110,38.1,43.7, ,C43
+37154,Incidence,Melanoma of the skin,1991,Persons,Victoria,1129,27.4,31.1, ,C43
+37155,Incidence,Melanoma of the skin,1991,Persons,Queensland,1415,52.9,59.7, ,C43
+37156,Incidence,Melanoma of the skin,1991,Persons,Western Australia,604,43.1,49.1, ,C43
+37157,Incidence,Melanoma of the skin,1991,Persons,South Australia,460,33.5,38.5, ,C43
+37158,Incidence,Melanoma of the skin,1991,Persons,Tasmania,143,34,38.3, ,C43
+37159,Incidence,Melanoma of the skin,1991,Persons,Australian Capital Territory,79,37.5,42, ,C43
+37160,Incidence,Melanoma of the skin,1991,Persons,Northern Territory,26,24.4,27.4, ,C43
+37161,Incidence,Melanoma of the skin,1991,Persons,Australia,5967,37.7,42.9, ,C43
+37162,Incidence,Melanoma of the skin,1992,Males,New South Wales,1200,45.7,54.5, ,C43
+37163,Incidence,Melanoma of the skin,1992,Males,Victoria,711,37.4,44.3, ,C43
+37164,Incidence,Melanoma of the skin,1992,Males,Queensland,886,68.9,81.6, ,C43
+37165,Incidence,Melanoma of the skin,1992,Males,Western Australia,357,53.1,63.6, ,C43
+37166,Incidence,Melanoma of the skin,1992,Males,South Australia,296,45.5,53.4, ,C43
+37167,Incidence,Melanoma of the skin,1992,Males,Tasmania,69,31,34.9, ,C43
+37168,Incidence,Melanoma of the skin,1992,Males,Australian Capital Territory,40,44,52.3, ,C43
+37169,Incidence,Melanoma of the skin,1992,Males,Northern Territory,19,39.8,46, ,C43
+37170,Incidence,Melanoma of the skin,1992,Males,Australia,3586,47.8,56.7, ,C43
+37171,Incidence,Melanoma of the skin,1992,Females,New South Wales,978,33.5,37.4, ,C43
+37172,Incidence,Melanoma of the skin,1992,Females,Victoria,667,30.2,34.1, ,C43
+37173,Incidence,Melanoma of the skin,1992,Females,Queensland,687,48.9,54.5, ,C43
+37174,Incidence,Melanoma of the skin,1992,Females,Western Australia,254,33.4,37.5, ,C43
+37175,Incidence,Melanoma of the skin,1992,Females,South Australia,286,38.4,42.9, ,C43
+37176,Incidence,Melanoma of the skin,1992,Females,Tasmania,58,25.2,27.7, ,C43
+37177,Incidence,Melanoma of the skin,1992,Females,Australian Capital Territory,36,30.7,33.5, ,C43
+37178,Incidence,Melanoma of the skin,1992,Females,Northern Territory,12,19.2,21, ,C43
+37179,Incidence,Melanoma of the skin,1992,Females,Australia,2980,35.4,39.6, ,C43
+37180,Incidence,Melanoma of the skin,1992,Persons,New South Wales,2178,38.8,44.9, ,C43
+37181,Incidence,Melanoma of the skin,1992,Persons,Victoria,1378,33.1,38.1, ,C43
+37182,Incidence,Melanoma of the skin,1992,Persons,Queensland,1573,57.7,66.3, ,C43
+37183,Incidence,Melanoma of the skin,1992,Persons,Western Australia,611,41.9,48.5, ,C43
+37184,Incidence,Melanoma of the skin,1992,Persons,South Australia,582,41.3,47.1, ,C43
+37185,Incidence,Melanoma of the skin,1992,Persons,Tasmania,127,28,31.2, ,C43
+37186,Incidence,Melanoma of the skin,1992,Persons,Australian Capital Territory,76,36,41, ,C43
+37187,Incidence,Melanoma of the skin,1992,Persons,Northern Territory,31,30.2,34.4, ,C43
+37188,Incidence,Melanoma of the skin,1992,Persons,Australia,6566,40.7,46.8, ,C43
+37189,Incidence,Melanoma of the skin,1993,Males,New South Wales,1428,54,64.7, ,C43
+37190,Incidence,Melanoma of the skin,1993,Males,Victoria,653,34.1,41.5, ,C43
+37191,Incidence,Melanoma of the skin,1993,Males,Queensland,861,65.6,77.5, ,C43
+37192,Incidence,Melanoma of the skin,1993,Males,Western Australia,383,55.1,64.9, ,C43
+37193,Incidence,Melanoma of the skin,1993,Males,South Australia,266,39.8,46.1, ,C43
+37194,Incidence,Melanoma of the skin,1993,Males,Tasmania,68,33.7,41.7, ,C43
+37195,Incidence,Melanoma of the skin,1993,Males,Australian Capital Territory,38,38.7,45.8, ,C43
+37196,Incidence,Melanoma of the skin,1993,Males,Northern Territory,19,37.5,43.1, ,C43
+37197,Incidence,Melanoma of the skin,1993,Males,Australia,3712,48.9,58.3, ,C43
+37198,Incidence,Melanoma of the skin,1993,Females,New South Wales,1052,35.5,40, ,C43
+37199,Incidence,Melanoma of the skin,1993,Females,Victoria,608,27.4,30.7, ,C43
+37200,Incidence,Melanoma of the skin,1993,Females,Queensland,665,45.3,50.8, ,C43
+37201,Incidence,Melanoma of the skin,1993,Females,Western Australia,332,42.8,46.8, ,C43
+37202,Incidence,Melanoma of the skin,1993,Females,South Australia,270,35.6,40.2, ,C43
+37203,Incidence,Melanoma of the skin,1993,Females,Tasmania,71,30.5,34.1, ,C43
+37204,Incidence,Melanoma of the skin,1993,Females,Australian Capital Territory,36,30.1,32.9, ,C43
+37205,Incidence,Melanoma of the skin,1993,Females,Northern Territory,12,19.3,20.6, ,C43
+37206,Incidence,Melanoma of the skin,1993,Females,Australia,3058,35.7,39.9, ,C43
+37207,Incidence,Melanoma of the skin,1993,Persons,New South Wales,2480,43.5,50.6, ,C43
+37208,Incidence,Melanoma of the skin,1993,Persons,Victoria,1261,30,34.9, ,C43
+37209,Incidence,Melanoma of the skin,1993,Persons,Queensland,1526,54.5,62.8, ,C43
+37210,Incidence,Melanoma of the skin,1993,Persons,Western Australia,715,47.8,54.2, ,C43
+37211,Incidence,Melanoma of the skin,1993,Persons,South Australia,536,37.4,42.8, ,C43
+37212,Incidence,Melanoma of the skin,1993,Persons,Tasmania,139,31.3,36.6, ,C43
+37213,Incidence,Melanoma of the skin,1993,Persons,Australian Capital Territory,74,33.3,37.9, ,C43
+37214,Incidence,Melanoma of the skin,1993,Persons,Northern Territory,31,28.6,32.2, ,C43
+37215,Incidence,Melanoma of the skin,1993,Persons,Australia,6770,41.3,47.7, ,C43
+37216,Incidence,Melanoma of the skin,1994,Males,New South Wales,1351,50.7,60.4, ,C43
+37217,Incidence,Melanoma of the skin,1994,Males,Victoria,683,34.9,41.1, ,C43
+37218,Incidence,Melanoma of the skin,1994,Males,Queensland,925,67.3,78.4, ,C43
+37219,Incidence,Melanoma of the skin,1994,Males,Western Australia,424,59.2,68.5, ,C43
+37220,Incidence,Melanoma of the skin,1994,Males,South Australia,310,45.3,52.5, ,C43
+37221,Incidence,Melanoma of the skin,1994,Males,Tasmania,81,37.8,44.9, ,C43
+37222,Incidence,Melanoma of the skin,1994,Males,Australian Capital Territory,39,39.3,47, ,C43
+37223,Incidence,Melanoma of the skin,1994,Males,Northern Territory,19,39.2,45.4, ,C43
+37224,Incidence,Melanoma of the skin,1994,Males,Australia,3832,49.3,58, ,C43
+37225,Incidence,Melanoma of the skin,1994,Females,New South Wales,1018,33.8,38, ,C43
+37226,Incidence,Melanoma of the skin,1994,Females,Victoria,632,28.2,31.7, ,C43
+37227,Incidence,Melanoma of the skin,1994,Females,Queensland,702,46.7,51.7, ,C43
+37228,Incidence,Melanoma of the skin,1994,Females,Western Australia,351,44.5,49.1, ,C43
+37229,Incidence,Melanoma of the skin,1994,Females,South Australia,303,39.5,44.2, ,C43
+37230,Incidence,Melanoma of the skin,1994,Females,Tasmania,72,30.8,33.7, ,C43
+37231,Incidence,Melanoma of the skin,1994,Females,Australian Capital Territory,35,28.1,30.9, ,C43
+37232,Incidence,Melanoma of the skin,1994,Females,Northern Territory,13,20.5,21.7, ,C43
+37233,Incidence,Melanoma of the skin,1994,Females,Australia,3118,35.7,39.9, ,C43
+37234,Incidence,Melanoma of the skin,1994,Persons,New South Wales,2369,41,47.5, ,C43
+37235,Incidence,Melanoma of the skin,1994,Persons,Victoria,1315,30.9,35.4, ,C43
+37236,Incidence,Melanoma of the skin,1994,Persons,Queensland,1627,56.3,64, ,C43
+37237,Incidence,Melanoma of the skin,1994,Persons,Western Australia,775,51.1,57.8, ,C43
+37238,Incidence,Melanoma of the skin,1994,Persons,South Australia,613,41.8,47.7, ,C43
+37239,Incidence,Melanoma of the skin,1994,Persons,Tasmania,153,33.5,38.3, ,C43
+37240,Incidence,Melanoma of the skin,1994,Persons,Australian Capital Territory,74,32.7,37.5, ,C43
+37241,Incidence,Melanoma of the skin,1994,Persons,Northern Territory,32,29.8,33.6, ,C43
+37242,Incidence,Melanoma of the skin,1994,Persons,Australia,6950,41.6,47.7, ,C43
+37243,Incidence,Melanoma of the skin,1995,Males,New South Wales,1422,52.5,63.5, ,C43
+37244,Incidence,Melanoma of the skin,1995,Males,Victoria,770,38.6,45.4, ,C43
+37245,Incidence,Melanoma of the skin,1995,Males,Queensland,1035,72.8,84.6, ,C43
+37246,Incidence,Melanoma of the skin,1995,Males,Western Australia,479,64.6,76.2, ,C43
+37247,Incidence,Melanoma of the skin,1995,Males,South Australia,288,42.2,48.8, ,C43
+37248,Incidence,Melanoma of the skin,1995,Males,Tasmania,92,42.4,47.5, ,C43
+37249,Incidence,Melanoma of the skin,1995,Males,Australian Capital Territory,43,41.9,51, ,C43
+37250,Incidence,Melanoma of the skin,1995,Males,Northern Territory,18,33.1,38, ,C43
+37251,Incidence,Melanoma of the skin,1995,Males,Australia,4155,52.4,61.9, ,C43
+37252,Incidence,Melanoma of the skin,1995,Females,New South Wales,963,31.3,35.1, ,C43
+37253,Incidence,Melanoma of the skin,1995,Females,Victoria,765,33.5,37.7, ,C43
+37254,Incidence,Melanoma of the skin,1995,Females,Queensland,783,50.5,55.1, ,C43
+37255,Incidence,Melanoma of the skin,1995,Females,Western Australia,358,43.8,48.4, ,C43
+37256,Incidence,Melanoma of the skin,1995,Females,South Australia,296,38.4,42.3, ,C43
+37257,Incidence,Melanoma of the skin,1995,Females,Tasmania,92,39,42.3, ,C43
+37258,Incidence,Melanoma of the skin,1995,Females,Australian Capital Territory,38,30.5,33.9, ,C43
+37259,Incidence,Melanoma of the skin,1995,Females,Northern Territory,14,22.6,25, ,C43
+37260,Incidence,Melanoma of the skin,1995,Females,Australia,3319,37.2,41.4, ,C43
+37261,Incidence,Melanoma of the skin,1995,Persons,New South Wales,2385,40.5,47.3, ,C43
+37262,Incidence,Melanoma of the skin,1995,Persons,Victoria,1535,35.6,40.9, ,C43
+37263,Incidence,Melanoma of the skin,1995,Persons,Queensland,1818,60.7,68.4, ,C43
+37264,Incidence,Melanoma of the skin,1995,Persons,Western Australia,837,53.4,61.2, ,C43
+37265,Incidence,Melanoma of the skin,1995,Persons,South Australia,584,39.6,44.5, ,C43
+37266,Incidence,Melanoma of the skin,1995,Persons,Tasmania,184,40.6,44.8, ,C43
+37267,Incidence,Melanoma of the skin,1995,Persons,Australian Capital Territory,81,35.1,40.7, ,C43
+37268,Incidence,Melanoma of the skin,1995,Persons,Northern Territory,32,28,31.8, ,C43
+37269,Incidence,Melanoma of the skin,1995,Persons,Australia,7474,43.8,50.3, ,C43
+37270,Incidence,Melanoma of the skin,1996,Males,New South Wales,1462,53.1,64.3, ,C43
+37271,Incidence,Melanoma of the skin,1996,Males,Victoria,864,42.7,50.3, ,C43
+37272,Incidence,Melanoma of the skin,1996,Males,Queensland,1113,77.2,90.9, ,C43
+37273,Incidence,Melanoma of the skin,1996,Males,Western Australia,430,56.9,66.9, ,C43
+37274,Incidence,Melanoma of the skin,1996,Males,South Australia,311,45.4,54.4, ,C43
+37275,Incidence,Melanoma of the skin,1996,Males,Tasmania,94,43.2,50.3, ,C43
+37276,Incidence,Melanoma of the skin,1996,Males,Australian Capital Territory,44,42.5,51.8, ,C43
+37277,Incidence,Melanoma of the skin,1996,Males,Northern Territory,20,35.5,40.7, ,C43
+37278,Incidence,Melanoma of the skin,1996,Males,Australia,4351,54.1,64.3, ,C43
+37279,Incidence,Melanoma of the skin,1996,Females,New South Wales,1069,34,38.5, ,C43
+37280,Incidence,Melanoma of the skin,1996,Females,Victoria,820,35.7,39.3, ,C43
+37281,Incidence,Melanoma of the skin,1996,Females,Queensland,864,54.6,60.8, ,C43
+37282,Incidence,Melanoma of the skin,1996,Females,Western Australia,310,37.7,41.6, ,C43
+37283,Incidence,Melanoma of the skin,1996,Females,South Australia,272,34.9,39.3, ,C43
+37284,Incidence,Melanoma of the skin,1996,Females,Tasmania,95,40,42.4, ,C43
+37285,Incidence,Melanoma of the skin,1996,Females,Australian Capital Territory,39,30.8,34.6, ,C43
+37286,Incidence,Melanoma of the skin,1996,Females,Northern Territory,15,21.6,22.7, ,C43
+37287,Incidence,Melanoma of the skin,1996,Females,Australia,3488,38.5,42.9, ,C43
+37288,Incidence,Melanoma of the skin,1996,Persons,New South Wales,2531,42.2,49.5, ,C43
+37289,Incidence,Melanoma of the skin,1996,Persons,Victoria,1684,38.4,43.7, ,C43
+37290,Incidence,Melanoma of the skin,1996,Persons,Queensland,1977,64.7,74, ,C43
+37291,Incidence,Melanoma of the skin,1996,Persons,Western Australia,740,46.4,52.9, ,C43
+37292,Incidence,Melanoma of the skin,1996,Persons,South Australia,583,39.1,45.3, ,C43
+37293,Incidence,Melanoma of the skin,1996,Persons,Tasmania,189,41.1,45.7, ,C43
+37294,Incidence,Melanoma of the skin,1996,Persons,Australian Capital Territory,84,35.5,41.2, ,C43
+37295,Incidence,Melanoma of the skin,1996,Persons,Northern Territory,35,28.6,31.7, ,C43
+37296,Incidence,Melanoma of the skin,1996,Persons,Australia,7839,45.2,52, ,C43
+37297,Incidence,Melanoma of the skin,1997,Males,New South Wales,1633,57.1,68.5, ,C43
+37298,Incidence,Melanoma of the skin,1997,Males,Victoria,899,42.9,50.3, ,C43
+37299,Incidence,Melanoma of the skin,1997,Males,Queensland,1236,82.8,97.3, ,C43
+37300,Incidence,Melanoma of the skin,1997,Males,Western Australia,398,51.7,61.2, ,C43
+37301,Incidence,Melanoma of the skin,1997,Males,South Australia,344,48.2,55.8, ,C43
+37302,Incidence,Melanoma of the skin,1997,Males,Tasmania,91,41.8,48.9, ,C43
+37303,Incidence,Melanoma of the skin,1997,Males,Australian Capital Territory,51,46,55.1, ,C43
+37304,Incidence,Melanoma of the skin,1997,Males,Northern Territory,19,28.8,31.6, ,C43
+37305,Incidence,Melanoma of the skin,1997,Males,Australia,4696,56.3,66.6, ,C43
+37306,Incidence,Melanoma of the skin,1997,Females,New South Wales,1162,36.4,41.1, ,C43
+37307,Incidence,Melanoma of the skin,1997,Females,Victoria,913,38.8,43.3, ,C43
+37308,Incidence,Melanoma of the skin,1997,Females,Queensland,893,55.2,60.1, ,C43
+37309,Incidence,Melanoma of the skin,1997,Females,Western Australia,294,34.3,38.1, ,C43
+37310,Incidence,Melanoma of the skin,1997,Females,South Australia,319,40.2,45.1, ,C43
+37311,Incidence,Melanoma of the skin,1997,Females,Tasmania,98,40.2,44.1, ,C43
+37312,Incidence,Melanoma of the skin,1997,Females,Australian Capital Territory,42,32.2,36.2, ,C43
+37313,Incidence,Melanoma of the skin,1997,Females,Northern Territory,16,23.3,24.3, ,C43
+37314,Incidence,Melanoma of the skin,1997,Females,Australia,3751,40.6,45.2, ,C43
+37315,Incidence,Melanoma of the skin,1997,Persons,New South Wales,2795,45.6,53.3, ,C43
+37316,Incidence,Melanoma of the skin,1997,Persons,Victoria,1812,40.4,46.1, ,C43
+37317,Incidence,Melanoma of the skin,1997,Persons,Queensland,2129,67.8,76.9, ,C43
+37318,Incidence,Melanoma of the skin,1997,Persons,Western Australia,692,42.4,48.8, ,C43
+37319,Incidence,Melanoma of the skin,1997,Persons,South Australia,663,43.6,49.7, ,C43
+37320,Incidence,Melanoma of the skin,1997,Persons,Tasmania,189,40.5,45.6, ,C43
+37321,Incidence,Melanoma of the skin,1997,Persons,Australian Capital Territory,93,38.3,44.3, ,C43
+37322,Incidence,Melanoma of the skin,1997,Persons,Northern Territory,36,26.1,28.1, ,C43
+37323,Incidence,Melanoma of the skin,1997,Persons,Australia,8447,47.6,54.6, ,C43
+37324,Incidence,Melanoma of the skin,1998,Males,New South Wales,1558,53.7,64.9, ,C43
+37325,Incidence,Melanoma of the skin,1998,Males,Victoria,791,37.7,44.5, ,C43
+37326,Incidence,Melanoma of the skin,1998,Males,Queensland,1230,79.8,93.5, ,C43
+37327,Incidence,Melanoma of the skin,1998,Males,Western Australia,427,54.3,64.9, ,C43
+37328,Incidence,Melanoma of the skin,1998,Males,South Australia,301,42.2,50.4, ,C43
+37329,Incidence,Melanoma of the skin,1998,Males,Tasmania,86,39.4,47.9, ,C43
+37330,Incidence,Melanoma of the skin,1998,Males,Australian Capital Territory,56,48.5,57.9, ,C43
+37331,Incidence,Melanoma of the skin,1998,Males,Northern Territory,22,31.5,34.4, ,C43
+37332,Incidence,Melanoma of the skin,1998,Males,Australia,4482,53,63, ,C43
+37333,Incidence,Melanoma of the skin,1998,Females,New South Wales,1120,34.4,38.8, ,C43
+37334,Incidence,Melanoma of the skin,1998,Females,Victoria,751,31.5,35, ,C43
+37335,Incidence,Melanoma of the skin,1998,Females,Queensland,908,54.8,61, ,C43
+37336,Incidence,Melanoma of the skin,1998,Females,Western Australia,327,37.6,42.7, ,C43
+37337,Incidence,Melanoma of the skin,1998,Females,South Australia,276,34.3,38.7, ,C43
+37338,Incidence,Melanoma of the skin,1998,Females,Tasmania,84,34.5,38, ,C43
+37339,Incidence,Melanoma of the skin,1998,Females,Australian Capital Territory,42,31.5,35.4, ,C43
+37340,Incidence,Melanoma of the skin,1998,Females,Northern Territory,15,20.7,21.8, ,C43
+37341,Incidence,Melanoma of the skin,1998,Females,Australia,3518,37.4,41.8, ,C43
+37342,Incidence,Melanoma of the skin,1998,Persons,New South Wales,2678,42.9,50.1, ,C43
+37343,Incidence,Melanoma of the skin,1998,Persons,Victoria,1542,34,38.9, ,C43
+37344,Incidence,Melanoma of the skin,1998,Persons,Queensland,2138,66.5,76, ,C43
+37345,Incidence,Melanoma of the skin,1998,Persons,Western Australia,754,45.1,52.5, ,C43
+37346,Incidence,Melanoma of the skin,1998,Persons,South Australia,577,37.5,43.5, ,C43
+37347,Incidence,Melanoma of the skin,1998,Persons,Tasmania,170,36,41.5, ,C43
+37348,Incidence,Melanoma of the skin,1998,Persons,Australian Capital Territory,97,39.3,45.5, ,C43
+37349,Incidence,Melanoma of the skin,1998,Persons,Northern Territory,37,26.5,28.5, ,C43
+37350,Incidence,Melanoma of the skin,1998,Persons,Australia,8000,44.3,51.1, ,C43
+37351,Incidence,Melanoma of the skin,1999,Males,New South Wales,1650,55.4,66.7, ,C43
+37352,Incidence,Melanoma of the skin,1999,Males,Victoria,884,41.6,49.9, ,C43
+37353,Incidence,Melanoma of the skin,1999,Males,Queensland,1152,73.3,86.5, ,C43
+37354,Incidence,Melanoma of the skin,1999,Males,Western Australia,550,68.1,81.3, ,C43
+37355,Incidence,Melanoma of the skin,1999,Males,South Australia,317,43.7,52.1, ,C43
+37356,Incidence,Melanoma of the skin,1999,Males,Tasmania,89,38.7,44.2, ,C43
+37357,Incidence,Melanoma of the skin,1999,Males,Australian Capital Territory,61,51.1,60.7, ,C43
+37358,Incidence,Melanoma of the skin,1999,Males,Northern Territory,24,34.4,38.3, ,C43
+37359,Incidence,Melanoma of the skin,1999,Males,Australia,4736,54.8,65.4, ,C43
+37360,Incidence,Melanoma of the skin,1999,Females,New South Wales,1129,34.1,38.3, ,C43
+37361,Incidence,Melanoma of the skin,1999,Females,Victoria,784,32,36.2, ,C43
+37362,Incidence,Melanoma of the skin,1999,Females,Queensland,898,52.8,58.4, ,C43
+37363,Incidence,Melanoma of the skin,1999,Females,Western Australia,395,43.7,48.4, ,C43
+37364,Incidence,Melanoma of the skin,1999,Females,South Australia,288,35.7,39.3, ,C43
+37365,Incidence,Melanoma of the skin,1999,Females,Tasmania,102,41.2,45, ,C43
+37366,Incidence,Melanoma of the skin,1999,Females,Australian Capital Territory,45,33.6,38.2, ,C43
+37367,Incidence,Melanoma of the skin,1999,Females,Northern Territory,16,25.8,28.8, ,C43
+37368,Incidence,Melanoma of the skin,1999,Females,Australia,3661,38.1,42.5, ,C43
+37369,Incidence,Melanoma of the skin,1999,Persons,New South Wales,2779,43.6,50.9, ,C43
+37370,Incidence,Melanoma of the skin,1999,Persons,Victoria,1668,36,41.9, ,C43
+37371,Incidence,Melanoma of the skin,1999,Persons,Queensland,2050,62.1,71, ,C43
+37372,Incidence,Melanoma of the skin,1999,Persons,Western Australia,945,54.7,63.3, ,C43
+37373,Incidence,Melanoma of the skin,1999,Persons,South Australia,605,38.8,44.5, ,C43
+37374,Incidence,Melanoma of the skin,1999,Persons,Tasmania,191,39.9,44.6, ,C43
+37375,Incidence,Melanoma of the skin,1999,Persons,Australian Capital Territory,107,41.8,48.5, ,C43
+37376,Incidence,Melanoma of the skin,1999,Persons,Northern Territory,39,30.6,34.2, ,C43
+37377,Incidence,Melanoma of the skin,1999,Persons,Australia,8397,45.5,52.6, ,C43
+37378,Incidence,Melanoma of the skin,2000,Males,New South Wales,1636,54,65.2, ,C43
+37379,Incidence,Melanoma of the skin,2000,Males,Victoria,892,40.6,48.9, ,C43
+37380,Incidence,Melanoma of the skin,2000,Males,Queensland,1301,80.7,95, ,C43
+37381,Incidence,Melanoma of the skin,2000,Males,Western Australia,532,63.5,75.2, ,C43
+37382,Incidence,Melanoma of the skin,2000,Males,South Australia,339,45.8,55.2, ,C43
+37383,Incidence,Melanoma of the skin,2000,Males,Tasmania,110,48.7,58, ,C43
+37384,Incidence,Melanoma of the skin,2000,Males,Australian Capital Territory,61,49,57, ,C43
+37385,Incidence,Melanoma of the skin,2000,Males,Northern Territory,26,35.8,39.8, ,C43
+37386,Incidence,Melanoma of the skin,2000,Males,Australia,4890,55.4,66.1, ,C43
+37387,Incidence,Melanoma of the skin,2000,Females,New South Wales,1189,35.1,40.1, ,C43
+37388,Incidence,Melanoma of the skin,2000,Females,Victoria,839,33.5,38.3, ,C43
+37389,Incidence,Melanoma of the skin,2000,Females,Queensland,964,55.1,61.2, ,C43
+37390,Incidence,Melanoma of the skin,2000,Females,Western Australia,372,40.4,45.3, ,C43
+37391,Incidence,Melanoma of the skin,2000,Females,South Australia,275,33.1,37.2, ,C43
+37392,Incidence,Melanoma of the skin,2000,Females,Tasmania,118,48,52.4, ,C43
+37393,Incidence,Melanoma of the skin,2000,Females,Australian Capital Territory,43,30.7,34.5, ,C43
+37394,Incidence,Melanoma of the skin,2000,Females,Northern Territory,19,28,30.2, ,C43
+37395,Incidence,Melanoma of the skin,2000,Females,Australia,3826,38.9,43.9, ,C43
+37396,Incidence,Melanoma of the skin,2000,Persons,New South Wales,2825,43.5,51, ,C43
+37397,Incidence,Melanoma of the skin,2000,Persons,Victoria,1731,36.5,42.9, ,C43
+37398,Incidence,Melanoma of the skin,2000,Persons,Queensland,2265,67,76.7, ,C43
+37399,Incidence,Melanoma of the skin,2000,Persons,Western Australia,904,51.1,59, ,C43
+37400,Incidence,Melanoma of the skin,2000,Persons,South Australia,614,38.5,44.9, ,C43
+37401,Incidence,Melanoma of the skin,2000,Persons,Tasmania,228,47.3,53.7, ,C43
+37402,Incidence,Melanoma of the skin,2000,Persons,Australian Capital Territory,105,39.4,45.2, ,C43
+37403,Incidence,Melanoma of the skin,2000,Persons,Northern Territory,45,32.3,35.4, ,C43
+37404,Incidence,Melanoma of the skin,2000,Persons,Australia,8716,46.2,53.7, ,C43
+37405,Incidence,Melanoma of the skin,2001,Males,New South Wales,1760,56.9,69.1, ,C43
+37406,Incidence,Melanoma of the skin,2001,Males,Victoria,927,41.5,49.4, ,C43
+37407,Incidence,Melanoma of the skin,2001,Males,Queensland,1357,81.9,97.4, ,C43
+37408,Incidence,Melanoma of the skin,2001,Males,Western Australia,511,59.6,70.5, ,C43
+37409,Incidence,Melanoma of the skin,2001,Males,South Australia,369,48.8,56.7, ,C43
+37410,Incidence,Melanoma of the skin,2001,Males,Tasmania,103,44.3,53.3, ,C43
+37411,Incidence,Melanoma of the skin,2001,Males,Australian Capital Territory,61,47.1,54.8, ,C43
+37412,Incidence,Melanoma of the skin,2001,Males,Northern Territory,26,35.8,40.7, ,C43
+37413,Incidence,Melanoma of the skin,2001,Males,Australia,5101,56.4,67.5, ,C43
+37414,Incidence,Melanoma of the skin,2001,Females,New South Wales,1245,36.1,41.1, ,C43
+37415,Incidence,Melanoma of the skin,2001,Females,Victoria,813,32.2,36.3, ,C43
+37416,Incidence,Melanoma of the skin,2001,Females,Queensland,992,55.5,61.7, ,C43
+37417,Incidence,Melanoma of the skin,2001,Females,Western Australia,396,42,47.5, ,C43
+37418,Incidence,Melanoma of the skin,2001,Females,South Australia,254,30.5,33.7, ,C43
+37419,Incidence,Melanoma of the skin,2001,Females,Tasmania,106,42.2,46.9, ,C43
+37420,Incidence,Melanoma of the skin,2001,Females,Australian Capital Territory,48,33.4,37.7, ,C43
+37421,Incidence,Melanoma of the skin,2001,Females,Northern Territory,21,30.1,32.7, ,C43
+37422,Incidence,Melanoma of the skin,2001,Females,Australia,3896,38.9,43.8, ,C43
+37423,Incidence,Melanoma of the skin,2001,Persons,New South Wales,3005,45.3,53.4, ,C43
+37424,Incidence,Melanoma of the skin,2001,Persons,Victoria,1740,36,41.7, ,C43
+37425,Incidence,Melanoma of the skin,2001,Persons,Queensland,2349,67.6,77.9, ,C43
+37426,Incidence,Melanoma of the skin,2001,Persons,Western Australia,907,50,57.9, ,C43
+37427,Incidence,Melanoma of the skin,2001,Persons,South Australia,623,38.9,44.2, ,C43
+37428,Incidence,Melanoma of the skin,2001,Persons,Tasmania,209,42.5,48.9, ,C43
+37429,Incidence,Melanoma of the skin,2001,Persons,Australian Capital Territory,109,40.1,46.1, ,C43
+37430,Incidence,Melanoma of the skin,2001,Persons,Northern Territory,47,33.3,37.2, ,C43
+37431,Incidence,Melanoma of the skin,2001,Persons,Australia,8997,46.7,54.2, ,C43
+37432,Incidence,Melanoma of the skin,2002,Males,New South Wales,1987,62.8,76.5, ,C43
+37433,Incidence,Melanoma of the skin,2002,Males,Victoria,996,43.5,52.2, ,C43
+37434,Incidence,Melanoma of the skin,2002,Males,Queensland,1465,85.5,101.2, ,C43
+37435,Incidence,Melanoma of the skin,2002,Males,Western Australia,637,72.1,85.9, ,C43
+37436,Incidence,Melanoma of the skin,2002,Males,South Australia,339,44.1,52.1, ,C43
+37437,Incidence,Melanoma of the skin,2002,Males,Tasmania,115,48.3,55.9, ,C43
+37438,Incidence,Melanoma of the skin,2002,Males,Australian Capital Territory,59,44.2,51.3, ,C43
+37439,Incidence,Melanoma of the skin,2002,Males,Northern Territory,25,33.3,37.8, ,C43
+37440,Incidence,Melanoma of the skin,2002,Males,Australia,5620,60.7,72.7, ,C43
+37441,Incidence,Melanoma of the skin,2002,Females,New South Wales,1347,38.5,44.1, ,C43
+37442,Incidence,Melanoma of the skin,2002,Females,Victoria,834,32.2,36.3, ,C43
+37443,Incidence,Melanoma of the skin,2002,Females,Queensland,1096,59.3,66.7, ,C43
+37444,Incidence,Melanoma of the skin,2002,Females,Western Australia,444,46.2,52.8, ,C43
+37445,Incidence,Melanoma of the skin,2002,Females,South Australia,333,39.1,44.3, ,C43
+37446,Incidence,Melanoma of the skin,2002,Females,Tasmania,109,42.5,47.4, ,C43
+37447,Incidence,Melanoma of the skin,2002,Females,Australian Capital Territory,49,33.5,38, ,C43
+37448,Incidence,Melanoma of the skin,2002,Females,Northern Territory,20,28.3,31.1, ,C43
+37449,Incidence,Melanoma of the skin,2002,Females,Australia,4235,41.4,46.9, ,C43
+37450,Incidence,Melanoma of the skin,2002,Persons,New South Wales,3334,49.4,58.5, ,C43
+37451,Incidence,Melanoma of the skin,2002,Persons,Victoria,1830,37.2,43.2, ,C43
+37452,Incidence,Melanoma of the skin,2002,Persons,Queensland,2561,71.4,82.6, ,C43
+37453,Incidence,Melanoma of the skin,2002,Persons,Western Australia,1081,58.1,67.7, ,C43
+37454,Incidence,Melanoma of the skin,2002,Persons,South Australia,672,41.1,47.4, ,C43
+37455,Incidence,Melanoma of the skin,2002,Persons,Tasmania,224,45.2,51.3, ,C43
+37456,Incidence,Melanoma of the skin,2002,Persons,Australian Capital Territory,108,38.8,44.5, ,C43
+37457,Incidence,Melanoma of the skin,2002,Persons,Northern Territory,45,31.2,34.9, ,C43
+37458,Incidence,Melanoma of the skin,2002,Persons,Australia,9855,50.1,58.4, ,C43
+37459,Incidence,Melanoma of the skin,2003,Males,New South Wales,1899,59.6,72.2, ,C43
+37460,Incidence,Melanoma of the skin,2003,Males,Victoria,985,42.2,51, ,C43
+37461,Incidence,Melanoma of the skin,2003,Males,Queensland,1422,79.9,95.6, ,C43
+37462,Incidence,Melanoma of the skin,2003,Males,Western Australia,674,73.8,87.6, ,C43
+37463,Incidence,Melanoma of the skin,2003,Males,South Australia,377,48.4,58.1, ,C43
+37464,Incidence,Melanoma of the skin,2003,Males,Tasmania,119,49.6,57.5, ,C43
+37465,Incidence,Melanoma of the skin,2003,Males,Australian Capital Territory,59,45.1,53.2, ,C43
+37466,Incidence,Melanoma of the skin,2003,Males,Northern Territory,27,36.2,41.5, ,C43
+37467,Incidence,Melanoma of the skin,2003,Males,Australia,5578,59.1,71, ,C43
+37468,Incidence,Melanoma of the skin,2003,Females,New South Wales,1370,38.5,44, ,C43
+37469,Incidence,Melanoma of the skin,2003,Females,Victoria,774,29.4,33.6, ,C43
+37470,Incidence,Melanoma of the skin,2003,Females,Queensland,1017,53.4,59.9, ,C43
+37471,Incidence,Melanoma of the skin,2003,Females,Western Australia,416,42.2,48, ,C43
+37472,Incidence,Melanoma of the skin,2003,Females,South Australia,287,33.3,37.9, ,C43
+37473,Incidence,Melanoma of the skin,2003,Females,Tasmania,98,37.9,41.7, ,C43
+37474,Incidence,Melanoma of the skin,2003,Females,Australian Capital Territory,50,33,37.4, ,C43
+37475,Incidence,Melanoma of the skin,2003,Females,Northern Territory,22,28.9,31.1, ,C43
+37476,Incidence,Melanoma of the skin,2003,Females,Australia,4026,38.7,43.8, ,C43
+37477,Incidence,Melanoma of the skin,2003,Persons,New South Wales,3269,47.8,56.3, ,C43
+37478,Incidence,Melanoma of the skin,2003,Persons,Victoria,1759,35,41.2, ,C43
+37479,Incidence,Melanoma of the skin,2003,Persons,Queensland,2439,65.7,76.3, ,C43
+37480,Incidence,Melanoma of the skin,2003,Persons,Western Australia,1090,57.1,66.5, ,C43
+37481,Incidence,Melanoma of the skin,2003,Persons,South Australia,664,39.7,46.4, ,C43
+37482,Incidence,Melanoma of the skin,2003,Persons,Tasmania,217,43.2,48.8, ,C43
+37483,Incidence,Melanoma of the skin,2003,Persons,Australian Capital Territory,109,38.7,44.8, ,C43
+37484,Incidence,Melanoma of the skin,2003,Persons,Northern Territory,49,33,36.9, ,C43
+37485,Incidence,Melanoma of the skin,2003,Persons,Australia,9604,47.8,55.9, ,C43
+37486,Incidence,Melanoma of the skin,2004,Males,New South Wales,2001,61.6,75.5, ,C43
+37487,Incidence,Melanoma of the skin,2004,Males,Victoria,1093,45.9,55.7, ,C43
+37488,Incidence,Melanoma of the skin,2004,Males,Queensland,1323,72.7,87.3, ,C43
+37489,Incidence,Melanoma of the skin,2004,Males,Western Australia,581,63,76.9, ,C43
+37490,Incidence,Melanoma of the skin,2004,Males,South Australia,383,48,57.2, ,C43
+37491,Incidence,Melanoma of the skin,2004,Males,Tasmania,117,47.1,56.5, ,C43
+37492,Incidence,Melanoma of the skin,2004,Males,Australian Capital Territory,60,45.6,54.6, ,C43
+37493,Incidence,Melanoma of the skin,2004,Males,Northern Territory,28,35.4,39.9, ,C43
+37494,Incidence,Melanoma of the skin,2004,Males,Australia,5602,58.2,70.6, ,C43
+37495,Incidence,Melanoma of the skin,2004,Females,New South Wales,1459,40.7,46.4, ,C43
+37496,Incidence,Melanoma of the skin,2004,Females,Victoria,877,32.9,37.8, ,C43
+37497,Incidence,Melanoma of the skin,2004,Females,Queensland,1050,53.4,60.6, ,C43
+37498,Incidence,Melanoma of the skin,2004,Females,Western Australia,414,41.1,46.9, ,C43
+37499,Incidence,Melanoma of the skin,2004,Females,South Australia,292,33.1,37.8, ,C43
+37500,Incidence,Melanoma of the skin,2004,Females,Tasmania,100,37.4,40.8, ,C43
+37501,Incidence,Melanoma of the skin,2004,Females,Australian Capital Territory,53,34.3,38.7, ,C43
+37502,Incidence,Melanoma of the skin,2004,Females,Northern Territory,22,25.8,26.5, ,C43
+37503,Incidence,Melanoma of the skin,2004,Females,Australia,4274,40.3,45.9, ,C43
+37504,Incidence,Melanoma of the skin,2004,Persons,New South Wales,3460,49.8,59, ,C43
+37505,Incidence,Melanoma of the skin,2004,Persons,Victoria,1970,38.5,45.4, ,C43
+37506,Incidence,Melanoma of the skin,2004,Persons,Queensland,2373,62.2,72.8, ,C43
+37507,Incidence,Melanoma of the skin,2004,Persons,Western Australia,995,50.9,60.2, ,C43
+37508,Incidence,Melanoma of the skin,2004,Persons,South Australia,675,39.9,46.5, ,C43
+37509,Incidence,Melanoma of the skin,2004,Persons,Tasmania,217,41.8,48.1, ,C43
+37510,Incidence,Melanoma of the skin,2004,Persons,Australian Capital Territory,113,39.5,46, ,C43
+37511,Incidence,Melanoma of the skin,2004,Persons,Northern Territory,50,30.9,33.7, ,C43
+37512,Incidence,Melanoma of the skin,2004,Persons,Australia,9876,48.2,56.7, ,C43
+37513,Incidence,Melanoma of the skin,2005,Males,New South Wales,2057,62.5,76.8, ,C43
+37514,Incidence,Melanoma of the skin,2005,Males,Victoria,1229,50.2,60.2, ,C43
+37515,Incidence,Melanoma of the skin,2005,Males,Queensland,1580,84.4,102, ,C43
+37516,Incidence,Melanoma of the skin,2005,Males,Western Australia,598,62.7,76.3, ,C43
+37517,Incidence,Melanoma of the skin,2005,Males,South Australia,399,49.3,60.7, ,C43
+37518,Incidence,Melanoma of the skin,2005,Males,Tasmania,148,59,68.3, ,C43
+37519,Incidence,Melanoma of the skin,2005,Males,Australian Capital Territory,69,51.5,62.2, ,C43
+37520,Incidence,Melanoma of the skin,2005,Males,Northern Territory,29,38.2,44.1, ,C43
+37521,Incidence,Melanoma of the skin,2005,Males,Australia,6139,62.4,75.8, ,C43
+37522,Incidence,Melanoma of the skin,2005,Females,New South Wales,1506,41.1,47.7, ,C43
+37523,Incidence,Melanoma of the skin,2005,Females,Victoria,1082,39.7,45.1, ,C43
+37524,Incidence,Melanoma of the skin,2005,Females,Queensland,1130,56,63.6, ,C43
+37525,Incidence,Melanoma of the skin,2005,Females,Western Australia,407,39.5,45.4, ,C43
+37526,Incidence,Melanoma of the skin,2005,Females,South Australia,328,37.2,42.5, ,C43
+37527,Incidence,Melanoma of the skin,2005,Females,Tasmania,136,50.7,55.5, ,C43
+37528,Incidence,Melanoma of the skin,2005,Females,Australian Capital Territory,61,39,44, ,C43
+37529,Incidence,Melanoma of the skin,2005,Females,Northern Territory,20,24.9,26.6, ,C43
+37530,Incidence,Melanoma of the skin,2005,Females,Australia,4689,43.4,49.6, ,C43
+37531,Incidence,Melanoma of the skin,2005,Persons,New South Wales,3563,50.5,60.3, ,C43
+37532,Incidence,Melanoma of the skin,2005,Persons,Victoria,2311,44.2,51.7, ,C43
+37533,Incidence,Melanoma of the skin,2005,Persons,Queensland,2710,69.1,81, ,C43
+37534,Incidence,Melanoma of the skin,2005,Persons,Western Australia,1005,50.4,59.8, ,C43
+37535,Incidence,Melanoma of the skin,2005,Persons,South Australia,727,42.2,50, ,C43
+37536,Incidence,Melanoma of the skin,2005,Persons,Tasmania,284,54.1,60.7, ,C43
+37537,Incidence,Melanoma of the skin,2005,Persons,Australian Capital Territory,130,44.4,51.9, ,C43
+37538,Incidence,Melanoma of the skin,2005,Persons,Northern Territory,49,32.1,36, ,C43
+37539,Incidence,Melanoma of the skin,2005,Persons,Australia,10828,51.8,61.1, ,C43
+37540,Incidence,Melanoma of the skin,2006,Males,New South Wales,2180,65.1,80, ,C43
+37541,Incidence,Melanoma of the skin,2006,Males,Victoria,1220,49.1,60.3, ,C43
+37542,Incidence,Melanoma of the skin,2006,Males,Queensland,1488,77.4,93.7, ,C43
+37543,Incidence,Melanoma of the skin,2006,Males,Western Australia,635,64.1,78.2, ,C43
+37544,Incidence,Melanoma of the skin,2006,Males,South Australia,360,43.9,52.3, ,C43
+37545,Incidence,Melanoma of the skin,2006,Males,Tasmania,127,49.8,58.7, ,C43
+37546,Incidence,Melanoma of the skin,2006,Males,Australian Capital Territory,73,53.6,65.1, ,C43
+37547,Incidence,Melanoma of the skin,2006,Males,Northern Territory,29,35.4,40.1, ,C43
+37548,Incidence,Melanoma of the skin,2006,Males,Australia,6105,60.8,74.1, ,C43
+37549,Incidence,Melanoma of the skin,2006,Females,New South Wales,1397,37.7,43.6, ,C43
+37550,Incidence,Melanoma of the skin,2006,Females,Victoria,974,34.7,40.4, ,C43
+37551,Incidence,Melanoma of the skin,2006,Females,Queensland,1027,49.3,56.2, ,C43
+37552,Incidence,Melanoma of the skin,2006,Females,Western Australia,458,43.6,50, ,C43
+37553,Incidence,Melanoma of the skin,2006,Females,South Australia,265,29.9,34.1, ,C43
+37554,Incidence,Melanoma of the skin,2006,Females,Tasmania,124,45,50, ,C43
+37555,Incidence,Melanoma of the skin,2006,Females,Australian Capital Territory,61,37.8,42.7, ,C43
+37556,Incidence,Melanoma of the skin,2006,Females,Northern Territory,19,24,25.9, ,C43
+37557,Incidence,Melanoma of the skin,2006,Females,Australia,4327,39.1,45, ,C43
+37558,Incidence,Melanoma of the skin,2006,Persons,New South Wales,3577,50.1,60, ,C43
+37559,Incidence,Melanoma of the skin,2006,Persons,Victoria,2194,41,49, ,C43
+37560,Incidence,Melanoma of the skin,2006,Persons,Queensland,2515,62.3,73.4, ,C43
+37561,Incidence,Melanoma of the skin,2006,Persons,Western Australia,1093,53.2,63.2, ,C43
+37562,Incidence,Melanoma of the skin,2006,Persons,South Australia,625,36.2,42.3, ,C43
+37563,Incidence,Melanoma of the skin,2006,Persons,Tasmania,251,47.3,54.3, ,C43
+37564,Incidence,Melanoma of the skin,2006,Persons,Australian Capital Territory,133,44.8,52.5, ,C43
+37565,Incidence,Melanoma of the skin,2006,Persons,Northern Territory,48,30.1,33.4, ,C43
+37566,Incidence,Melanoma of the skin,2006,Persons,Australia,10432,49,58.1, ,C43
+37567,Incidence,Melanoma of the skin,2007,Males,New South Wales,2127,61.8,76.7, ,C43
+37568,Incidence,Melanoma of the skin,2007,Males,Victoria,1188,46.3,56.6, ,C43
+37569,Incidence,Melanoma of the skin,2007,Males,Queensland,1592,79.5,96.7, ,C43
+37570,Incidence,Melanoma of the skin,2007,Males,Western Australia,576,56.5,68.1, ,C43
+37571,Incidence,Melanoma of the skin,2007,Males,South Australia,342,40.5,49.2, ,C43
+37572,Incidence,Melanoma of the skin,2007,Males,Tasmania,127,48,60.5, ,C43
+37573,Incidence,Melanoma of the skin,2007,Males,Australian Capital Territory,72,52.8,64.5, ,C43
+37574,Incidence,Melanoma of the skin,2007,Males,Northern Territory,30,35.8,40.7, ,C43
+37575,Incidence,Melanoma of the skin,2007,Males,Australia,6037,58.3,71.5, ,C43
+37576,Incidence,Melanoma of the skin,2007,Females,New South Wales,1420,37.5,43.2, ,C43
+37577,Incidence,Melanoma of the skin,2007,Females,Victoria,986,34.6,39.7, ,C43
+37578,Incidence,Melanoma of the skin,2007,Females,Queensland,1127,52.8,59.6, ,C43
+37579,Incidence,Melanoma of the skin,2007,Females,Western Australia,411,38,44.2, ,C43
+37580,Incidence,Melanoma of the skin,2007,Females,South Australia,280,30.7,34.4, ,C43
+37581,Incidence,Melanoma of the skin,2007,Females,Tasmania,110,38.3,42.8, ,C43
+37582,Incidence,Melanoma of the skin,2007,Females,Australian Capital Territory,59,36,40.6, ,C43
+37583,Incidence,Melanoma of the skin,2007,Females,Northern Territory,20,24.6,26.5, ,C43
+37584,Incidence,Melanoma of the skin,2007,Females,Australia,4403,39,44.5, ,C43
+37585,Incidence,Melanoma of the skin,2007,Persons,New South Wales,3547,48.4,58.1, ,C43
+37586,Incidence,Melanoma of the skin,2007,Persons,Victoria,2174,39.8,47.2, ,C43
+37587,Incidence,Melanoma of the skin,2007,Persons,Queensland,2719,65.2,76.7, ,C43
+37588,Incidence,Melanoma of the skin,2007,Persons,Western Australia,987,46.6,55.2, ,C43
+37589,Incidence,Melanoma of the skin,2007,Persons,South Australia,622,34.8,40.6, ,C43
+37590,Incidence,Melanoma of the skin,2007,Persons,Tasmania,237,41.9,49.7, ,C43
+37591,Incidence,Melanoma of the skin,2007,Persons,Australian Capital Territory,131,43.3,51, ,C43
+37592,Incidence,Melanoma of the skin,2007,Persons,Northern Territory,50,30.6,34.1, ,C43
+37593,Incidence,Melanoma of the skin,2007,Persons,Australia,10440,47.7,56.6, ,C43
+37594,Incidence,Melanoma of the skin,2008,Males,New South Wales,2154,61,75.1, ,C43
+37595,Incidence,Melanoma of the skin,2008,Males,Victoria,1247,47.6,58.6, ,C43
+37596,Incidence,Melanoma of the skin,2008,Males,Queensland,1773,86.3,104.1, ,C43
+37597,Incidence,Melanoma of the skin,2008,Males,Western Australia,661,63.7,78.2, ,C43
+37598,Incidence,Melanoma of the skin,2008,Males,South Australia,413,48.1,59.2, ,C43
+37599,Incidence,Melanoma of the skin,2008,Males,Tasmania,163,59.7,71, ,C43
+37600,Incidence,Melanoma of the skin,2008,Males,Australian Capital Territory,76,54.3,66.2, ,C43
+37601,Incidence,Melanoma of the skin,2008,Males,Northern Territory,29,35.5,41.4, ,C43
+37602,Incidence,Melanoma of the skin,2008,Males,Australia,6528,61.6,75.3, ,C43
+37603,Incidence,Melanoma of the skin,2008,Females,New South Wales,1489,38.3,44.9, ,C43
+37604,Incidence,Melanoma of the skin,2008,Females,Victoria,981,33.9,38.5, ,C43
+37605,Incidence,Melanoma of the skin,2008,Females,Queensland,1196,54.7,61.5, ,C43
+37606,Incidence,Melanoma of the skin,2008,Females,Western Australia,425,37.9,44.3, ,C43
+37607,Incidence,Melanoma of the skin,2008,Females,South Australia,325,34.2,39.3, ,C43
+37608,Incidence,Melanoma of the skin,2008,Females,Tasmania,114,41.1,45.7, ,C43
+37609,Incidence,Melanoma of the skin,2008,Females,Australian Capital Territory,62,37.4,42, ,C43
+37610,Incidence,Melanoma of the skin,2008,Females,Northern Territory,20,25.5,28.4, ,C43
+37611,Incidence,Melanoma of the skin,2008,Females,Australia,4608,39.9,45.7, ,C43
+37612,Incidence,Melanoma of the skin,2008,Persons,New South Wales,3643,48.5,58.3, ,C43
+37613,Incidence,Melanoma of the skin,2008,Persons,Victoria,2228,39.9,47.2, ,C43
+37614,Incidence,Melanoma of the skin,2008,Persons,Queensland,2969,69.3,81.1, ,C43
+37615,Incidence,Melanoma of the skin,2008,Persons,Western Australia,1086,49.8,59.6, ,C43
+37616,Incidence,Melanoma of the skin,2008,Persons,South Australia,738,40.1,47.8, ,C43
+37617,Incidence,Melanoma of the skin,2008,Persons,Tasmania,277,49.3,56.6, ,C43
+37618,Incidence,Melanoma of the skin,2008,Persons,Australian Capital Territory,139,44.7,52.5, ,C43
+37619,Incidence,Melanoma of the skin,2008,Persons,Northern Territory,49,30.9,35.4, ,C43
+37620,Incidence,Melanoma of the skin,2008,Persons,Australia,11136,49.6,58.9, ,C43
+37621,Incidence,Melanoma of the skin,2009,Males,New South Wales,2190,60.5,74.6, ,C43
+37622,Incidence,Melanoma of the skin,2009,Males,Victoria,1333,49.8,61.1, ,C43
+37623,Incidence,Melanoma of the skin,2009,Males,Queensland,1786,84.7,102.9, ,C43
+37624,Incidence,Melanoma of the skin,2009,Males,Western Australia,640,59.4,73.6, ,C43
+37625,Incidence,Melanoma of the skin,2009,Males,South Australia,381,44.2,53.3, ,C43
+37626,Incidence,Melanoma of the skin,2009,Males,Tasmania,160,57.9,68.3, ,C43
+37627,Incidence,Melanoma of the skin,2009,Males,Australian Capital Territory,77,53.6,65.6, ,C43
+37628,Incidence,Melanoma of the skin,2009,Males,Northern Territory,30,36.3,43, ,C43
+37629,Incidence,Melanoma of the skin,2009,Males,Australia,6602,60.8,74.4, ,C43
+37630,Incidence,Melanoma of the skin,2009,Females,New South Wales,1534,38.7,45.1, ,C43
+37631,Incidence,Melanoma of the skin,2009,Females,Victoria,1047,34.9,40.7, ,C43
+37632,Incidence,Melanoma of the skin,2009,Females,Queensland,1267,56.6,64.4, ,C43
+37633,Incidence,Melanoma of the skin,2009,Females,Western Australia,399,34.4,39.4, ,C43
+37634,Incidence,Melanoma of the skin,2009,Females,South Australia,289,29.7,34.8, ,C43
+37635,Incidence,Melanoma of the skin,2009,Females,Tasmania,115,39.3,43.8, ,C43
+37636,Incidence,Melanoma of the skin,2009,Females,Australian Capital Territory,57,33.7,37.9, ,C43
+37637,Incidence,Melanoma of the skin,2009,Females,Northern Territory,20,27.3,31.8, ,C43
+37638,Incidence,Melanoma of the skin,2009,Females,Australia,4710,39.8,45.9, ,C43
+37639,Incidence,Melanoma of the skin,2009,Persons,New South Wales,3724,48.6,58.5, ,C43
+37640,Incidence,Melanoma of the skin,2009,Persons,Victoria,2380,41.5,49.6, ,C43
+37641,Incidence,Melanoma of the skin,2009,Persons,Queensland,3053,69.6,82, ,C43
+37642,Incidence,Melanoma of the skin,2009,Persons,Western Australia,1039,46.1,55.4, ,C43
+37643,Incidence,Melanoma of the skin,2009,Persons,South Australia,670,36.3,43.1, ,C43
+37644,Incidence,Melanoma of the skin,2009,Persons,Tasmania,275,47.9,55.2, ,C43
+37645,Incidence,Melanoma of the skin,2009,Persons,Australian Capital Territory,135,42.3,49.8, ,C43
+37646,Incidence,Melanoma of the skin,2009,Persons,Northern Territory,50,32.3,38.1, ,C43
+37647,Incidence,Melanoma of the skin,2009,Persons,Australia,11312,49.3,58.8, ,C43
+37648,Incidence,Melanoma of the skin,2010,Males,New South Wales,2335,63.1,78.5, ,C43
+37649,Incidence,Melanoma of the skin,2010,Males,Victoria,1304,47.1,58, ,C43
+37650,Incidence,Melanoma of the skin,2010,Males,Queensland,1847,85.3,104.4, ,C43
+37651,Incidence,Melanoma of the skin,2010,Males,Western Australia,650,59.1,73.3, ,C43
+37652,Incidence,Melanoma of the skin,2010,Males,South Australia,386,43.4,52.3, ,C43
+37653,Incidence,Melanoma of the skin,2010,Males,Tasmania,158,54.8,66.7, ,C43
+37654,Incidence,Melanoma of the skin,2010,Males,Australian Capital Territory,74,50.7,62.6, ,C43
+37655,Incidence,Melanoma of the skin,2010,Males,Northern Territory,32,39.3,46.8, ,C43
+37656,Incidence,Melanoma of the skin,2010,Males,Australia,6804,61,75.2, ,C43
+37657,Incidence,Melanoma of the skin,2010,Females,New South Wales,1563,38.5,45.3, ,C43
+37658,Incidence,Melanoma of the skin,2010,Females,Victoria,972,31.8,37, ,C43
+37659,Incidence,Melanoma of the skin,2010,Females,Queensland,1270,54.6,62.7, ,C43
+37660,Incidence,Melanoma of the skin,2010,Females,Western Australia,389,32.6,38, ,C43
+37661,Incidence,Melanoma of the skin,2010,Females,South Australia,313,31.6,36.9, ,C43
+37662,Incidence,Melanoma of the skin,2010,Females,Tasmania,134,45,50.3, ,C43
+37663,Incidence,Melanoma of the skin,2010,Females,Australian Capital Territory,50,28.6,32.5, ,C43
+37664,Incidence,Melanoma of the skin,2010,Females,Northern Territory,21,26.3,30.1, ,C43
+37665,Incidence,Melanoma of the skin,2010,Females,Australia,4709,38.7,45, ,C43
+37666,Incidence,Melanoma of the skin,2010,Persons,New South Wales,3898,49.7,60.2, ,C43
+37667,Incidence,Melanoma of the skin,2010,Persons,Victoria,2276,38.7,46.4, ,C43
+37668,Incidence,Melanoma of the skin,2010,Persons,Queensland,3117,68.9,81.9, ,C43
+37669,Incidence,Melanoma of the skin,2010,Persons,Western Australia,1039,44.8,54.1, ,C43
+37670,Incidence,Melanoma of the skin,2010,Persons,South Australia,699,36.8,43.6, ,C43
+37671,Incidence,Melanoma of the skin,2010,Persons,Tasmania,292,49.4,57.7, ,C43
+37672,Incidence,Melanoma of the skin,2010,Persons,Australian Capital Territory,124,38.4,45.8, ,C43
+37673,Incidence,Melanoma of the skin,2010,Persons,Northern Territory,53,33.1,38.8, ,C43
+37674,Incidence,Melanoma of the skin,2010,Persons,Australia,11513,48.9,58.6, ,C43
+37675,Incidence,Melanoma of the skin,2011,Males,New South Wales,2398,62.6,78.3, ,C43
+37676,Incidence,Melanoma of the skin,2011,Males,Victoria,1172,41,50.1, ,C43
+37677,Incidence,Melanoma of the skin,2011,Males,Queensland,1925,85.6,104.4, ,C43
+37678,Incidence,Melanoma of the skin,2011,Males,Western Australia,667,58.6,72.7, ,C43
+37679,Incidence,Melanoma of the skin,2011,Males,South Australia,404,43.7,53.9, ,C43
+37680,Incidence,Melanoma of the skin,2011,Males,Tasmania,132,45,54.7, ,C43
+37681,Incidence,Melanoma of the skin,2011,Males,Australian Capital Territory,76,50.6,62.6, ,C43
+37682,Incidence,Melanoma of the skin,2011,Males,Northern Territory,33,41.3,49.7, ,C43
+37683,Incidence,Melanoma of the skin,2011,Males,Australia,6803,59,72.7, ,C43
+37684,Incidence,Melanoma of the skin,2011,Females,New South Wales,1616,39.2,46.4, ,C43
+37685,Incidence,Melanoma of the skin,2011,Females,Victoria,900,28.6,33.5, ,C43
+37686,Incidence,Melanoma of the skin,2011,Females,Queensland,1381,58.2,66.5, ,C43
+37687,Incidence,Melanoma of the skin,2011,Females,Western Australia,449,36.2,42.4, ,C43
+37688,Incidence,Melanoma of the skin,2011,Females,South Australia,290,28.7,33.8, ,C43
+37689,Incidence,Melanoma of the skin,2011,Females,Tasmania,129,43.2,49.2, ,C43
+37690,Incidence,Melanoma of the skin,2011,Females,Australian Capital Territory,48,26.9,30.8, ,C43
+37691,Incidence,Melanoma of the skin,2011,Females,Northern Territory,22,26.9,31.2, ,C43
+37692,Incidence,Melanoma of the skin,2011,Females,Australia,4842,39,45.4, ,C43
+37693,Incidence,Melanoma of the skin,2011,Persons,New South Wales,4014,49.8,60.6, ,C43
+37694,Incidence,Melanoma of the skin,2011,Persons,Victoria,2072,34.3,41.1, ,C43
+37695,Incidence,Melanoma of the skin,2011,Persons,Queensland,3306,71.1,84.2, ,C43
+37696,Incidence,Melanoma of the skin,2011,Persons,Western Australia,1116,46.5,56.2, ,C43
+37697,Incidence,Melanoma of the skin,2011,Persons,South Australia,694,35.7,43, ,C43
+37698,Incidence,Melanoma of the skin,2011,Persons,Tasmania,261,43.5,51.1, ,C43
+37699,Incidence,Melanoma of the skin,2011,Persons,Australian Capital Territory,124,37.5,44.9, ,C43
+37700,Incidence,Melanoma of the skin,2011,Persons,Northern Territory,55,34.5,41, ,C43
+37701,Incidence,Melanoma of the skin,2011,Persons,Australia,11645,48.1,57.8, ,C43
+37702,Incidence,Melanoma of the skin,2012,Males,New South Wales,2489,63.8,79.4, ,C43
+37703,Incidence,Melanoma of the skin,2012,Males,Victoria,1291,44.2,54.4, ,C43
+37704,Incidence,Melanoma of the skin,2012,Males,Queensland,2017,87.9,107.2, ,C43
+37705,Incidence,Melanoma of the skin,2012,Males,Western Australia,696,58.9,73.7, ,C43
+37706,Incidence,Melanoma of the skin,2012,Males,South Australia,394,41.8,51.9, ,C43
+37707,Incidence,Melanoma of the skin,2012,Males,Tasmania,146,48.8,57.7, ,C43
+37708,Incidence,Melanoma of the skin,2012,Males,Australian Capital Territory,79,51.2,64.1, ,C43
+37709,Incidence,Melanoma of the skin,2012,Males,Northern Territory,37,46.4,56.5, ,C43
+37710,Incidence,Melanoma of the skin,2012,Males,Australia,7156,60.7,74.9, ,C43
+37711,Incidence,Melanoma of the skin,2012,Females,New South Wales,1699,40.4,47.2, ,C43
+37712,Incidence,Melanoma of the skin,2012,Females,Victoria,987,30.7,35.7, ,C43
+37713,Incidence,Melanoma of the skin,2012,Females,Queensland,1428,58.3,67.5, ,C43
+37714,Incidence,Melanoma of the skin,2012,Females,Western Australia,453,35.8,41.3, ,C43
+37715,Incidence,Melanoma of the skin,2012,Females,South Australia,305,30.3,35.4, ,C43
+37716,Incidence,Melanoma of the skin,2012,Females,Tasmania,109,34,40.2, ,C43
+37717,Incidence,Melanoma of the skin,2012,Females,Australian Capital Territory,54,29.2,33.5, ,C43
+37718,Incidence,Melanoma of the skin,2012,Females,Northern Territory,23,28.7,34.2, ,C43
+37719,Incidence,Melanoma of the skin,2012,Females,Australia,5083,39.9,46.5, ,C43
+37720,Incidence,Melanoma of the skin,2012,Persons,New South Wales,4188,51.1,61.8, ,C43
+37721,Incidence,Melanoma of the skin,2012,Persons,Victoria,2278,36.8,44.1, ,C43
+37722,Incidence,Melanoma of the skin,2012,Persons,Queensland,3445,72.2,86, ,C43
+37723,Incidence,Melanoma of the skin,2012,Persons,Western Australia,1149,46.5,56.3, ,C43
+37724,Incidence,Melanoma of the skin,2012,Persons,South Australia,699,35.5,42.8, ,C43
+37725,Incidence,Melanoma of the skin,2012,Persons,Tasmania,255,41.3,48.8, ,C43
+37726,Incidence,Melanoma of the skin,2012,Persons,Australian Capital Territory,132,38.9,47, ,C43
+37727,Incidence,Melanoma of the skin,2012,Persons,Northern Territory,60,38.3,46.4, ,C43
+37728,Incidence,Melanoma of the skin,2012,Persons,Australia,12239,49.5,59.4, ,C43
+37729,Incidence,Melanoma of the skin,2013,Males,New South Wales,2540,63.7,79.3, ,C43
+37730,Incidence,Melanoma of the skin,2013,Males,Victoria,1329,44.2,55.1, ,C43
+37731,Incidence,Melanoma of the skin,2013,Males,Queensland,2168,91.1,112.1, ,C43
+37732,Incidence,Melanoma of the skin,2013,Males,Western Australia,785,65.2,80.7, ,C43
+37733,Incidence,Melanoma of the skin,2013,Males,South Australia,438,45.7,57.2, ,C43
+37734,Incidence,Melanoma of the skin,2013,Males,Tasmania,138,45.7,55.7, ,C43
+37735,Incidence,Melanoma of the skin,2013,Males,Australian Capital Territory,81,50.4,63.3, ,C43
+37736,Incidence,Melanoma of the skin,2013,Males,Northern Territory,39,46.9,58.1, ,C43
+37737,Incidence,Melanoma of the skin,2013,Males,Australia,7533,62.2,77.2, ,C43
+37738,Incidence,Melanoma of the skin,2013,Females,New South Wales,1767,41,48.2, ,C43
+37739,Incidence,Melanoma of the skin,2013,Females,Victoria,1000,30.1,35.5, ,C43
+37740,Incidence,Melanoma of the skin,2013,Females,Queensland,1528,61.7,69.9, ,C43
+37741,Incidence,Melanoma of the skin,2013,Females,Western Australia,535,41.3,49.2, ,C43
+37742,Incidence,Melanoma of the skin,2013,Females,South Australia,286,28,32.2, ,C43
+37743,Incidence,Melanoma of the skin,2013,Females,Tasmania,136,43.5,49.8, ,C43
+37744,Incidence,Melanoma of the skin,2013,Females,Australian Capital Territory,54,29,34, ,C43
+37745,Incidence,Melanoma of the skin,2013,Females,Northern Territory,24,29.3,35.4, ,C43
+37746,Incidence,Melanoma of the skin,2013,Females,Australia,5340,41.1,47.8, ,C43
+37747,Incidence,Melanoma of the skin,2013,Persons,New South Wales,4307,51.5,62.4, ,C43
+37748,Incidence,Melanoma of the skin,2013,Persons,Victoria,2329,36.5,44.3, ,C43
+37749,Incidence,Melanoma of the skin,2013,Persons,Queensland,3696,75.5,89.8, ,C43
+37750,Incidence,Melanoma of the skin,2013,Persons,Western Australia,1320,52.4,63.6, ,C43
+37751,Incidence,Melanoma of the skin,2013,Persons,South Australia,724,36,43.3, ,C43
+37752,Incidence,Melanoma of the skin,2013,Persons,Tasmania,274,44,51.9, ,C43
+37753,Incidence,Melanoma of the skin,2013,Persons,Australian Capital Territory,135,38.6,47, ,C43
+37754,Incidence,Melanoma of the skin,2013,Persons,Northern Territory,63,38.8,47.7, ,C43
+37755,Incidence,Melanoma of the skin,2013,Persons,Australia,12873,50.8,61.3, ,C43
+37756,Incidence,Melanoma of the skin,2014,Males,New South Wales,2558,63.2,78.4, ,C43
+37757,Incidence,Melanoma of the skin,2014,Males,Victoria,1401,45.4,56.3, ,C43
+37758,Incidence,Melanoma of the skin,2014,Males,Queensland,2205,90.6,111.9, ,C43
+37759,Incidence,Melanoma of the skin,2014,Males,Western Australia,774,61.9,77.2, ,C43
+37760,Incidence,Melanoma of the skin,2014,Males,South Australia,482,49.6,61.4, ,C43
+37761,Incidence,Melanoma of the skin,2014,Males,Tasmania,163,51.2,63.7, ,C43
+37762,Incidence,Melanoma of the skin,2014,Males,Australian Capital Territory,81,49.8,62.9, ,C43
+37763,Incidence,Melanoma of the skin,2014,Males,Northern Territory,43,52.1,65.4, ,C43
+37764,Incidence,Melanoma of the skin,2014,Males,Australia,7718,62.3,77.3, ,C43
+37765,Incidence,Melanoma of the skin,2014,Females,New South Wales,1797,41.1,48.2, ,C43
+37766,Incidence,Melanoma of the skin,2014,Females,Victoria,1064,31.5,36.9, ,C43
+37767,Incidence,Melanoma of the skin,2014,Females,Queensland,1505,59.1,67.8, ,C43
+37768,Incidence,Melanoma of the skin,2014,Females,Western Australia,532,40.3,47, ,C43
+37769,Incidence,Melanoma of the skin,2014,Females,South Australia,313,30.1,35.2, ,C43
+37770,Incidence,Melanoma of the skin,2014,Females,Tasmania,169,51.3,60.4, ,C43
+37771,Incidence,Melanoma of the skin,2014,Females,Australian Capital Territory,63,33,38.8, ,C43
+37772,Incidence,Melanoma of the skin,2014,Females,Northern Territory,25,28.1,33.1, ,C43
+37773,Incidence,Melanoma of the skin,2014,Females,Australia,5486,41.4,48.2, ,C43
+37774,Incidence,Melanoma of the skin,2014,Persons,New South Wales,4355,51.2,61.9, ,C43
+37775,Incidence,Melanoma of the skin,2014,Persons,Victoria,2465,37.8,45.6, ,C43
+37776,Incidence,Melanoma of the skin,2014,Persons,Queensland,3710,73.7,88.2, ,C43
+37777,Incidence,Melanoma of the skin,2014,Persons,Western Australia,1306,50.3,60.9, ,C43
+37778,Incidence,Melanoma of the skin,2014,Persons,South Australia,795,39,47, ,C43
+37779,Incidence,Melanoma of the skin,2014,Persons,Tasmania,332,51,61.6, ,C43
+37780,Incidence,Melanoma of the skin,2014,Persons,Australian Capital Territory,144,40.3,49.3, ,C43
+37781,Incidence,Melanoma of the skin,2014,Persons,Northern Territory,68,40.7,50.1, ,C43
+37782,Incidence,Melanoma of the skin,2014,Persons,Australia,13204,51,61.4, ,C43
+37783,Incidence,Melanoma of the skin,2015,Males,New South Wales,2581,61.7,77.3, ,C43
+37784,Incidence,Melanoma of the skin,2015,Males,Victoria,1532,48.2,60.1, ,C43
+37785,Incidence,Melanoma of the skin,2015,Males,Queensland,2195,88.2,107.5, ,C43
+37786,Incidence,Melanoma of the skin,2015,Males,Western Australia,900,71.2,88.2, ,C43
+37787,Incidence,Melanoma of the skin,2015,Males,South Australia,474,47.6,59, ,C43
+37788,Incidence,Melanoma of the skin,2015,Males,Tasmania,166,52,64.6, ,C43
+37789,Incidence,Melanoma of the skin,2015,Males,Australian Capital Territory,84,49.5,62.4, ,C43
+37790,Incidence,Melanoma of the skin,2015,Males,Northern Territory,48,55.7,69.9, ,C43
+37791,Incidence,Melanoma of the skin,2015,Males,Australia,8014,63.1,78.2, ,C43
+37792,Incidence,Melanoma of the skin,2015,Females,New South Wales,1778,39.9,47.2, ,C43
+37793,Incidence,Melanoma of the skin,2015,Females,Victoria,1161,33.7,39.4, ,C43
+37794,Incidence,Melanoma of the skin,2015,Females,Queensland,1561,59.5,68.6, ,C43
+37795,Incidence,Melanoma of the skin,2015,Females,Western Australia,670,49.3,58, ,C43
+37796,Incidence,Melanoma of the skin,2015,Females,South Australia,295,27.4,32.3, ,C43
+37797,Incidence,Melanoma of the skin,2015,Females,Tasmania,136,42.5,48.5, ,C43
+37798,Incidence,Melanoma of the skin,2015,Females,Australian Capital Territory,70,35.8,42.4, ,C43
+37799,Incidence,Melanoma of the skin,2015,Females,Northern Territory,27,31.2,37.6, ,C43
+37800,Incidence,Melanoma of the skin,2015,Females,Australia,5711,42.2,49.3, ,C43
+37801,Incidence,Melanoma of the skin,2015,Persons,New South Wales,4359,49.9,61, ,C43
+37802,Incidence,Melanoma of the skin,2015,Persons,Victoria,2693,40.3,48.8, ,C43
+37803,Incidence,Melanoma of the skin,2015,Persons,Queensland,3756,73,86.8, ,C43
+37804,Incidence,Melanoma of the skin,2015,Persons,Western Australia,1570,59.5,72.1, ,C43
+37805,Incidence,Melanoma of the skin,2015,Persons,South Australia,769,36.7,44.5, ,C43
+37806,Incidence,Melanoma of the skin,2015,Persons,Tasmania,302,46.6,55.5, ,C43
+37807,Incidence,Melanoma of the skin,2015,Persons,Australian Capital Territory,153,41.7,51, ,C43
+37808,Incidence,Melanoma of the skin,2015,Persons,Northern Territory,75,44.2,54.8, ,C43
+37809,Incidence,Melanoma of the skin,2015,Persons,Australia,13725,51.9,62.6, ,C43
+37810,Incidence,Melanoma of the skin,2016,Males,New South Wales,2857,67.1,83.4, ,C43
+37811,Incidence,Melanoma of the skin,2016,Males,Victoria,1569,48.1,59.3, ,C43
+37812,Incidence,Melanoma of the skin,2016,Males,Queensland,2331,91.3,111.6, ,C43
+37813,Incidence,Melanoma of the skin,2016,Males,Western Australia,919,70.3,86.8, ,C43
+37814,Incidence,Melanoma of the skin,2016,Males,South Australia,463,45.6,55.9, ,C43
+37815,Incidence,Melanoma of the skin,2016,Males,Tasmania,186,59.1,71.1, ,C43
+37816,Incidence,Melanoma of the skin,2016,Males,Australian Capital Territory,92,52.7,66.5, ,C43
+37817,Incidence,Melanoma of the skin,2016,Males,Northern Territory,54,58.5,73.4, ,C43
+37818,Incidence,Melanoma of the skin,2016,Males,Australia,8497,65.4,80.6, ,C43
+37819,Incidence,Melanoma of the skin,2016,Females,New South Wales,1926,42.4,49.9, ,C43
+37820,Incidence,Melanoma of the skin,2016,Females,Victoria,1253,35.4,41.4, ,C43
+37821,Incidence,Melanoma of the skin,2016,Females,Queensland,1633,60.5,70.2, ,C43
+37822,Incidence,Melanoma of the skin,2016,Females,Western Australia,626,45.6,53.9, ,C43
+37823,Incidence,Melanoma of the skin,2016,Females,South Australia,343,31.6,37.2, ,C43
+37824,Incidence,Melanoma of the skin,2016,Females,Tasmania,148,45.5,52.3, ,C43
+37825,Incidence,Melanoma of the skin,2016,Females,Australian Capital Territory,75,37.7,44.8, ,C43
+37826,Incidence,Melanoma of the skin,2016,Females,Northern Territory,28,31.9,38.5, ,C43
+37827,Incidence,Melanoma of the skin,2016,Females,Australia,6040,43.6,51, ,C43
+37828,Incidence,Melanoma of the skin,2016,Persons,New South Wales,4783,53.8,65.3, ,C43
+37829,Incidence,Melanoma of the skin,2016,Persons,Victoria,2822,41.2,49.5, ,C43
+37830,Incidence,Melanoma of the skin,2016,Persons,Queensland,3964,75.1,89.7, ,C43
+37831,Incidence,Melanoma of the skin,2016,Persons,Western Australia,1545,57.3,69.4, ,C43
+37832,Incidence,Melanoma of the skin,2016,Persons,South Australia,806,38.1,45.9, ,C43
+37833,Incidence,Melanoma of the skin,2016,Persons,Tasmania,334,51.9,61.1, ,C43
+37834,Incidence,Melanoma of the skin,2016,Persons,Australian Capital Territory,167,44.3,54.3, ,C43
+37835,Incidence,Melanoma of the skin,2016,Persons,Northern Territory,82,46.1,57.3, ,C43
+37836,Incidence,Melanoma of the skin,2016,Persons,Australia,14537,53.7,64.7, ,C43
+37837,Incidence,Melanoma of the skin,2017,Males,New South Wales,2967,68.1,84.9, ,C43
+37838,Incidence,Melanoma of the skin,2017,Males,Victoria,1673,50,62, ,C43
+37839,Incidence,Melanoma of the skin,2017,Males,Queensland,2475,94,114.2, ,C43
+37840,Incidence,Melanoma of the skin,2017,Males,Western Australia,870,65.1,81.2, ,C43
+37841,Incidence,Melanoma of the skin,2017,Males,South Australia,469,45.5,55.8, ,C43
+37842,Incidence,Melanoma of the skin,2017,Males,Tasmania,180,54,66.8, ,C43
+37843,Incidence,Melanoma of the skin,2017,Males,Australian Capital Territory,107,59.4,74.2, ,C43
+37844,Incidence,Melanoma of the skin,2017,Males,Northern Territory,52,56.8,71.6, ,C43
+37845,Incidence,Melanoma of the skin,2017,Males,Australia,8825,66.2,81.7, ,C43
+37846,Incidence,Melanoma of the skin,2017,Females,New South Wales,1953,42.2,49.7, ,C43
+37847,Incidence,Melanoma of the skin,2017,Females,Victoria,1309,35.9,42.4, ,C43
+37848,Incidence,Melanoma of the skin,2017,Females,Queensland,1675,61.1,70.6, ,C43
+37849,Incidence,Melanoma of the skin,2017,Females,Western Australia,592,41.5,49.2, ,C43
+37850,Incidence,Melanoma of the skin,2017,Females,South Australia,334,30.1,35.8, ,C43
+37851,Incidence,Melanoma of the skin,2017,Females,Tasmania,159,46.6,53.8, ,C43
+37852,Incidence,Melanoma of the skin,2017,Females,Australian Capital Territory,77,37.8,44.9, ,C43
+37853,Incidence,Melanoma of the skin,2017,Females,Northern Territory,29,32.3,39.1, ,C43
+37854,Incidence,Melanoma of the skin,2017,Females,Australia,6137,43.3,50.8, ,C43
+37855,Incidence,Melanoma of the skin,2017,Persons,New South Wales,4920,54.3,66, ,C43
+37856,Incidence,Melanoma of the skin,2017,Persons,Victoria,2982,42.3,51.3, ,C43
+37857,Incidence,Melanoma of the skin,2017,Persons,Queensland,4150,76.6,91, ,C43
+37858,Incidence,Melanoma of the skin,2017,Persons,Western Australia,1462,52.6,64.1, ,C43
+37859,Incidence,Melanoma of the skin,2017,Persons,South Australia,803,37.3,45, ,C43
+37860,Incidence,Melanoma of the skin,2017,Persons,Tasmania,339,49.8,59.5, ,C43
+37861,Incidence,Melanoma of the skin,2017,Persons,Australian Capital Territory,184,47.5,58.1, ,C43
+37862,Incidence,Melanoma of the skin,2017,Persons,Northern Territory,81,45.2,56.3, ,C43
+37863,Incidence,Melanoma of the skin,2017,Persons,Australia,14962,54,65.1, ,C43
+37864,Incidence,Melanoma of the skin,2018,Males,New South Wales,2984,67.5,83.4, ,C43
+37865,Incidence,Melanoma of the skin,2018,Males,Victoria,1763,51.4,63.7, ,C43
+37866,Incidence,Melanoma of the skin,2018,Males,Queensland,2343,86.5,106.1, ,C43
+37867,Incidence,Melanoma of the skin,2018,Males,Western Australia,863,62.7,77.6, ,C43
+37868,Incidence,Melanoma of the skin,2018,Males,South Australia,479,44.6,56, ,C43
+37869,Incidence,Melanoma of the skin,2018,Males,Tasmania,205,59.9,72.2, ,C43
+37870,Incidence,Melanoma of the skin,2018,Males,Australian Capital Territory,114,61.6,77.2, ,C43
+37871,Incidence,Melanoma of the skin,2018,Males,Northern Territory,52,56.6,71.2, ,C43
+37872,Incidence,Melanoma of the skin,2018,Males,Australia,8814,64.6,79.8, ,C43
+37873,Incidence,Melanoma of the skin,2018,Females,New South Wales,2022,43.4,50.7, ,C43
+37874,Incidence,Melanoma of the skin,2018,Females,Victoria,1311,35.1,41.7, ,C43
+37875,Incidence,Melanoma of the skin,2018,Females,Queensland,1735,61.3,71, ,C43
+37876,Incidence,Melanoma of the skin,2018,Females,Western Australia,626,43,51.1, ,C43
+37877,Incidence,Melanoma of the skin,2018,Females,South Australia,310,27.6,32.4, ,C43
+37878,Incidence,Melanoma of the skin,2018,Females,Tasmania,196,57.5,66.3, ,C43
+37879,Incidence,Melanoma of the skin,2018,Females,Australian Capital Territory,81,38.4,45.5, ,C43
+37880,Incidence,Melanoma of the skin,2018,Females,Northern Territory,30,31.9,37.7, ,C43
+37881,Incidence,Melanoma of the skin,2018,Females,Australia,6320,43.7,51.2, ,C43
+37882,Incidence,Melanoma of the skin,2018,Persons,New South Wales,5006,54.6,65.8, ,C43
+37883,Incidence,Melanoma of the skin,2018,Persons,Victoria,3075,42.6,51.7, ,C43
+37884,Incidence,Melanoma of the skin,2018,Persons,Queensland,4078,73.2,87.4, ,C43
+37885,Incidence,Melanoma of the skin,2018,Persons,Western Australia,1489,52.3,63.6, ,C43
+37886,Incidence,Melanoma of the skin,2018,Persons,South Australia,789,35.4,43.2, ,C43
+37887,Incidence,Melanoma of the skin,2018,Persons,Tasmania,401,58.5,68.9, ,C43
+37888,Incidence,Melanoma of the skin,2018,Persons,Australian Capital Territory,195,48.9,59.7, ,C43
+37889,Incidence,Melanoma of the skin,2018,Persons,Northern Territory,83,44.5,54.7, ,C43
+37890,Incidence,Melanoma of the skin,2018,Persons,Australia,15135,53.4,64.4, ,C43
+37891,Incidence,Melanoma of the skin,2019,Males,New South Wales,3003,66.4,82.3, ,C43
+37892,Incidence,Melanoma of the skin,2019,Males,Victoria,1631,46.3,57.9, ,C43
+37893,Incidence,Melanoma of the skin,2019,Males,Queensland,2602,93.1,114, ,C43
+37894,Incidence,Melanoma of the skin,2019,Males,Western Australia,949,66.2,82.5, ,C43
+37895,Incidence,Melanoma of the skin,2019,Males,South Australia,546,50,62.2, ,C43
+37896,Incidence,Melanoma of the skin,2019,Males,Tasmania,224,65.8,78.5, ,C43
+37897,Incidence,Melanoma of the skin,2019,Males,Australian Capital Territory,120,62.8,78.3, ,C43
+37898,Incidence,Melanoma of the skin,2019,Males,Northern Territory,55,59.6,75, ,C43
+37899,Incidence,Melanoma of the skin,2019,Males,Australia,9134,65.2,80.6, ,C43
+37900,Incidence,Melanoma of the skin,2019,Females,New South Wales,2075,43.3,51.2, ,C43
+37901,Incidence,Melanoma of the skin,2019,Females,Victoria,1201,31.5,37.4, ,C43
+37902,Incidence,Melanoma of the skin,2019,Females,Queensland,1845,63.8,73.9, ,C43
+37903,Incidence,Melanoma of the skin,2019,Females,Western Australia,680,44.8,53.5, ,C43
+37904,Incidence,Melanoma of the skin,2019,Females,South Australia,358,30.2,36.1, ,C43
+37905,Incidence,Melanoma of the skin,2019,Females,Tasmania,188,55,61.7, ,C43
+37906,Incidence,Melanoma of the skin,2019,Females,Australian Capital Territory,86,39.5,46.9, ,C43
+37907,Incidence,Melanoma of the skin,2019,Females,Northern Territory,33,33.2,39.2, ,C43
+37908,Incidence,Melanoma of the skin,2019,Females,Australia,6494,43.8,51.5, ,C43
+37909,Incidence,Melanoma of the skin,2019,Persons,New South Wales,5078,54.1,65.6, ,C43
+37910,Incidence,Melanoma of the skin,2019,Persons,Victoria,2832,38.3,46.7, ,C43
+37911,Incidence,Melanoma of the skin,2019,Persons,Queensland,4447,77.7,92.7, ,C43
+37912,Incidence,Melanoma of the skin,2019,Persons,Western Australia,1629,54.9,67.1, ,C43
+37913,Incidence,Melanoma of the skin,2019,Persons,South Australia,904,39.5,48.3, ,C43
+37914,Incidence,Melanoma of the skin,2019,Persons,Tasmania,412,60,69.4, ,C43
+37915,Incidence,Melanoma of the skin,2019,Persons,Australian Capital Territory,205,50.1,61.2, ,C43
+37916,Incidence,Melanoma of the skin,2019,Persons,Northern Territory,88,46.4,57, ,C43
+37917,Incidence,Melanoma of the skin,2019,Persons,Australia,15628,53.8,65, ,C43
+37918,Incidence,Mesothelioma,1982,Males,New South Wales,54,2.6,3.5, ,C45
+44993,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Victoria,48,2.4,3.2, ,C44
+44994,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Queensland,55,3.8,5.2, ,C44
+44995,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Western Australia,52,6.5,8.2, ,C44
+44996,Incidence,Non-melanoma skin cancer (rare types),2001,Males,South Australia,9,1.3,1.7, ,C44
+44997,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Tasmania,7,2.9,3.4, ,C44
+44998,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Australian Capital Territory,0,. .,. ., ,C44
+44999,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Northern Territory,0,. .,. ., ,C44
+45000,Incidence,Non-melanoma skin cancer (rare types),2001,Males,Australia,322,3.9,5.2, ,C44
+45001,Incidence,Non-melanoma skin cancer (rare types),2001,Females,New South Wales,68,1.8,2.3, ,C44
+45002,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Victoria,29,1,1.4, ,C44
+45003,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Queensland,36,1.9,2.7, ,C44
+45004,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Western Australia,30,3.1,4, ,C44
+45005,Incidence,Non-melanoma skin cancer (rare types),2001,Females,South Australia,7,0.6,0.9, ,C44
+45006,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Tasmania,6,2.3,3, ,C44
+45007,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Australian Capital Territory,0,. .,. ., ,C44
+45008,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Northern Territory,0,. .,. ., ,C44
+45009,Incidence,Non-melanoma skin cancer (rare types),2001,Females,Australia,180,1.6,2.2, ,C44
+45010,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,New South Wales,213,3.2,4.1, ,C44
+45011,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Victoria,77,1.6,2.1, ,C44
+45012,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Queensland,91,2.7,3.8, ,C44
+45013,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Western Australia,82,4.7,6, ,C44
+45014,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,South Australia,16,0.9,1.2, ,C44
+45015,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Tasmania,13,2.6,3.1, ,C44
+45016,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Australian Capital Territory,0,. .,. ., ,C44
+45017,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Northern Territory,0,. .,. ., ,C44
+45018,Incidence,Non-melanoma skin cancer (rare types),2001,Persons,Australia,502,2.6,3.4, ,C44
+45019,Incidence,Non-melanoma skin cancer (rare types),2002,Males,New South Wales,169,5.7,7.5, ,C44
+45020,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Victoria,43,2,2.7, ,C44
+45021,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Queensland,65,4.4,6, ,C44
+45022,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Western Australia,46,6.1,7.9, ,C44
+45023,Incidence,Non-melanoma skin cancer (rare types),2002,Males,South Australia,11,1.4,1.9, ,C44
+45024,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Tasmania,5,2.4,2.9, ,C44
+45025,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Australian Capital Territory,0,. .,. ., ,C44
+45026,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Northern Territory,0,. .,. ., ,C44
+45027,Incidence,Non-melanoma skin cancer (rare types),2002,Males,Australia,342,4,5.3, ,C44
+45028,Incidence,Non-melanoma skin cancer (rare types),2002,Females,New South Wales,90,2.4,3.1, ,C44
+45029,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Victoria,35,1.2,1.6, ,C44
+45030,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Queensland,35,1.8,2.4, ,C44
+45031,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Western Australia,23,2.4,3.1, ,C44
+45032,Incidence,Non-melanoma skin cancer (rare types),2002,Females,South Australia,3,n.p.,n.p., ,C44
+45033,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Tasmania,3,n.p.,n.p., ,C44
+45034,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Australian Capital Territory,0,. .,. ., ,C44
+45035,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Northern Territory,0,. .,. ., ,C44
+45036,Incidence,Non-melanoma skin cancer (rare types),2002,Females,Australia,193,1.7,2.3, ,C44
+45037,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,New South Wales,259,3.8,4.9, ,C44
+45038,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Victoria,78,1.5,2.1, ,C44
+45039,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Queensland,100,2.9,3.9, ,C44
+45040,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Western Australia,69,3.9,5, ,C44
+45041,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,South Australia,14,0.8,1.1, ,C44
+45042,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Tasmania,8,1.6,1.9, ,C44
+45043,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Australian Capital Territory,0,. .,. ., ,C44
+45044,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Northern Territory,0,. .,. ., ,C44
+45045,Incidence,Non-melanoma skin cancer (rare types),2002,Persons,Australia,535,2.7,3.5, ,C44
+45046,Incidence,Non-melanoma skin cancer (rare types),2003,Males,New South Wales,157,5.1,6.6, ,C44
+45047,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Victoria,44,2,2.5, ,C44
+45048,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Queensland,55,3.4,4.5, ,C44
+45049,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Western Australia,47,5.6,7.4, ,C44
+45050,Incidence,Non-melanoma skin cancer (rare types),2003,Males,South Australia,3,n.p.,n.p., ,C44
+45051,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Tasmania,2,n.p.,n.p., ,C44
+45052,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Australian Capital Territory,0,. .,. ., ,C44
+45053,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Northern Territory,0,. .,. ., ,C44
+45054,Incidence,Non-melanoma skin cancer (rare types),2003,Males,Australia,317,3.6,4.6, ,C44
+45055,Incidence,Non-melanoma skin cancer (rare types),2003,Females,New South Wales,106,2.7,3.4, ,C44
+45056,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Victoria,38,1.3,1.7, ,C44
+45057,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Queensland,24,1.2,1.6, ,C44
+45058,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Western Australia,32,3.1,3.9, ,C44
+45059,Incidence,Non-melanoma skin cancer (rare types),2003,Females,South Australia,6,0.5,0.7, ,C44
+45060,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Tasmania,3,n.p.,n.p., ,C44
+45061,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Australian Capital Territory,0,. .,. ., ,C44
+45062,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Northern Territory,0,. .,. ., ,C44
+45063,Incidence,Non-melanoma skin cancer (rare types),2003,Females,Australia,214,1.9,2.4, ,C44
+45064,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,New South Wales,263,3.8,4.9, ,C44
+45065,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Victoria,82,1.6,2.1, ,C44
+45066,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Queensland,79,2.2,2.8, ,C44
+45067,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Western Australia,79,4.3,5.5, ,C44
+45068,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,South Australia,9,0.5,0.7, ,C44
+45069,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Tasmania,5,0.9,1.3, ,C44
+45070,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Australian Capital Territory,0,. .,. ., ,C44
+45071,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Northern Territory,0,. .,. ., ,C44
+45072,Incidence,Non-melanoma skin cancer (rare types),2003,Persons,Australia,531,2.6,3.4, ,C44
+45073,Incidence,Non-melanoma skin cancer (rare types),2004,Males,New South Wales,165,5.4,7.2, ,C44
+45074,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Victoria,46,2.1,2.7, ,C44
+45075,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Queensland,74,4.7,6.4, ,C44
+45076,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Western Australia,53,6.4,8.4, ,C44
+45077,Incidence,Non-melanoma skin cancer (rare types),2004,Males,South Australia,12,1.5,2, ,C44
+45078,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Tasmania,11,4.3,5.6, ,C44
+45079,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Australian Capital Territory,0,. .,. ., ,C44
+45080,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Northern Territory,0,. .,. ., ,C44
+45081,Incidence,Non-melanoma skin cancer (rare types),2004,Males,Australia,367,4.1,5.5, ,C44
+45082,Incidence,Non-melanoma skin cancer (rare types),2004,Females,New South Wales,93,2.2,2.9, ,C44
+45083,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Victoria,28,1,1.3, ,C44
+45084,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Queensland,31,1.5,2, ,C44
+45085,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Western Australia,34,3.3,4.1, ,C44
+45086,Incidence,Non-melanoma skin cancer (rare types),2004,Females,South Australia,8,0.7,1.1, ,C44
+45087,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Tasmania,1,n.p.,n.p., ,C44
+45088,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Australian Capital Territory,0,. .,. ., ,C44
+45089,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Northern Territory,0,. .,. ., ,C44
+45090,Incidence,Non-melanoma skin cancer (rare types),2004,Females,Australia,197,1.7,2.2, ,C44
+45091,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,New South Wales,258,3.6,4.8, ,C44
+45092,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Victoria,74,1.4,1.8, ,C44
+45093,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Queensland,105,2.8,3.8, ,C44
+45094,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Western Australia,87,4.6,5.9, ,C44
+45095,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,South Australia,20,1.1,1.5, ,C44
+45096,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Tasmania,12,2.1,2.9, ,C44
+45097,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Australian Capital Territory,0,. .,. ., ,C44
+45098,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Northern Territory,0,. .,. ., ,C44
+45099,Incidence,Non-melanoma skin cancer (rare types),2004,Persons,Australia,564,2.7,3.6, ,C44
+45100,Incidence,Non-melanoma skin cancer (rare types),2005,Males,New South Wales,189,6,8.1, ,C44
+45101,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Victoria,39,1.7,2.2, ,C44
+45102,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Queensland,66,4,5.5, ,C44
+45103,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Western Australia,40,4.6,5.9, ,C44
+45104,Incidence,Non-melanoma skin cancer (rare types),2005,Males,South Australia,11,1.4,2.1, ,C44
+45105,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Tasmania,7,3,3.7, ,C44
+45106,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Australian Capital Territory,5,4.6,5.7, ,C44
+45107,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Northern Territory,0,0,0, ,C44
+45108,Incidence,Non-melanoma skin cancer (rare types),2005,Males,Australia,355,3.9,5.2, ,C44
+45109,Incidence,Non-melanoma skin cancer (rare types),2005,Females,New South Wales,104,2.5,3.3, ,C44
+45110,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Victoria,33,1.1,1.4, ,C44
+45111,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Queensland,37,1.8,2.4, ,C44
+45112,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Western Australia,22,2,2.6, ,C44
+45113,Incidence,Non-melanoma skin cancer (rare types),2005,Females,South Australia,11,1,1.3, ,C44
+45114,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Tasmania,8,2.7,3.4, ,C44
+45115,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Australian Capital Territory,3,n.p.,n.p., ,C44
+45116,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Northern Territory,0,0,0, ,C44
+45117,Incidence,Non-melanoma skin cancer (rare types),2005,Females,Australia,217,1.8,2.4, ,C44
+45118,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,New South Wales,293,4,5.3, ,C44
+45119,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Victoria,72,1.3,1.7, ,C44
+45120,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Queensland,103,2.7,3.6, ,C44
+45121,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Western Australia,62,3.2,4.2, ,C44
+45122,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,South Australia,22,1.2,1.6, ,C44
+45123,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Tasmania,15,2.8,3.5, ,C44
+45124,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Australian Capital Territory,9,3.3,4.2, ,C44
+45125,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Northern Territory,0,0,0, ,C44
+45126,Incidence,Non-melanoma skin cancer (rare types),2005,Persons,Australia,572,2.7,3.6, ,C44
+45127,Incidence,Non-melanoma skin cancer (rare types),2006,Males,New South Wales,181,5.7,7.5, ,C44
+45128,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Victoria,44,1.8,2.5, ,C44
+45129,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Queensland,65,3.6,4.8, ,C44
+45130,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Western Australia,57,6.6,8.9, ,C44
+45131,Incidence,Non-melanoma skin cancer (rare types),2006,Males,South Australia,17,2,2.8, ,C44
+45132,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Tasmania,10,4.1,5.5, ,C44
+45133,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Australian Capital Territory,5,4.3,5.6, ,C44
+45134,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Northern Territory,0,0,0, ,C44
+45135,Incidence,Non-melanoma skin cancer (rare types),2006,Males,Australia,379,4,5.4, ,C44
+45136,Incidence,Non-melanoma skin cancer (rare types),2006,Females,New South Wales,119,2.8,3.6, ,C44
+45137,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Victoria,23,0.7,1, ,C44
+45138,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Queensland,40,1.9,2.5, ,C44
+45139,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Western Australia,37,3.3,4.3, ,C44
+45140,Incidence,Non-melanoma skin cancer (rare types),2006,Females,South Australia,5,0.4,0.6, ,C44
+45141,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Tasmania,5,1.6,2.1, ,C44
+45142,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Australian Capital Territory,3,n.p.,n.p., ,C44
+45143,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Northern Territory,0,0,0, ,C44
+45144,Incidence,Non-melanoma skin cancer (rare types),2006,Females,Australia,232,1.9,2.5, ,C44
+45145,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,New South Wales,300,4.1,5.3, ,C44
+45146,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Victoria,67,1.2,1.6, ,C44
+45147,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Queensland,105,2.6,3.5, ,C44
+45148,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Western Australia,94,4.6,6.1, ,C44
+45149,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,South Australia,22,1.1,1.5, ,C44
+45150,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Tasmania,15,2.6,3.5, ,C44
+45151,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Australian Capital Territory,8,3.1,3.9, ,C44
+45152,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Northern Territory,0,0,0, ,C44
+45153,Incidence,Non-melanoma skin cancer (rare types),2006,Persons,Australia,611,2.8,3.7, ,C44
+45154,Incidence,Non-melanoma skin cancer (rare types),2007,Males,New South Wales,178,5.4,7.2, ,C44
+45155,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Victoria,53,2.1,2.7, ,C44
+45156,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Queensland,108,5.8,7.6, ,C44
+45157,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Western Australia,48,5.2,7, ,C44
+45158,Incidence,Non-melanoma skin cancer (rare types),2007,Males,South Australia,14,1.6,2.2, ,C44
+45159,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Tasmania,12,4.4,5.5, ,C44
+45160,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Australian Capital Territory,5,4.3,5.8, ,C44
+45161,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Northern Territory,0,0,0, ,C44
+45162,Incidence,Non-melanoma skin cancer (rare types),2007,Males,Australia,415,4.2,5.6, ,C44
+45163,Incidence,Non-melanoma skin cancer (rare types),2007,Females,New South Wales,119,2.7,3.6, ,C44
+45164,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Victoria,36,1.1,1.5, ,C44
+45165,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Queensland,49,2.1,2.8, ,C44
+45166,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Western Australia,25,2.2,2.9, ,C44
+45167,Incidence,Non-melanoma skin cancer (rare types),2007,Females,South Australia,8,0.6,0.9, ,C44
+45168,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Tasmania,6,1.7,2.4, ,C44
+45169,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45170,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Northern Territory,0,0,0, ,C44
+45171,Incidence,Non-melanoma skin cancer (rare types),2007,Females,Australia,243,1.9,2.5, ,C44
+45172,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,New South Wales,297,3.9,5.1, ,C44
+45173,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Victoria,89,1.6,2, ,C44
+45174,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Queensland,157,3.8,4.9, ,C44
+45175,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Western Australia,73,3.5,4.7, ,C44
+45176,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,South Australia,22,1.1,1.5, ,C44
+45177,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Tasmania,18,3,3.9, ,C44
+45178,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Australian Capital Territory,7,2.7,3.5, ,C44
+45179,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Northern Territory,0,0,0, ,C44
+45180,Incidence,Non-melanoma skin cancer (rare types),2007,Persons,Australia,658,2.9,3.8, ,C44
+45181,Incidence,Non-melanoma skin cancer (rare types),2008,Males,New South Wales,166,5,6.7, ,C44
+45182,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Victoria,39,1.5,2, ,C44
+45183,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Queensland,119,6.1,8.1, ,C44
+45184,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Western Australia,52,5.5,7.3, ,C44
+45185,Incidence,Non-melanoma skin cancer (rare types),2008,Males,South Australia,11,1.3,1.7, ,C44
+45186,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Tasmania,7,2.7,4, ,C44
+45187,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Australian Capital Territory,4,n.p.,n.p., ,C44
+45188,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Northern Territory,1,n.p.,n.p., ,C44
+45189,Incidence,Non-melanoma skin cancer (rare types),2008,Males,Australia,401,4,5.3, ,C44
+45190,Incidence,Non-melanoma skin cancer (rare types),2008,Females,New South Wales,127,2.8,3.9, ,C44
+45191,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Victoria,30,0.9,1.2, ,C44
+45192,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Queensland,38,1.6,2.2, ,C44
+45193,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Western Australia,29,2.4,3.1, ,C44
+45194,Incidence,Non-melanoma skin cancer (rare types),2008,Females,South Australia,6,0.4,0.6, ,C44
+45195,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Tasmania,8,2.4,3.2, ,C44
+45196,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45197,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Northern Territory,0,0,0, ,C44
+45198,Incidence,Non-melanoma skin cancer (rare types),2008,Females,Australia,241,1.8,2.5, ,C44
+45199,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,New South Wales,293,3.7,5, ,C44
+45200,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Victoria,69,1.2,1.6, ,C44
+45201,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Queensland,157,3.7,4.9, ,C44
+45202,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Western Australia,81,3.8,5, ,C44
+45203,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,South Australia,17,0.8,1.1, ,C44
+45204,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Tasmania,15,2.4,3.3, ,C44
+45205,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Australian Capital Territory,6,2.1,2.8, ,C44
+45206,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Northern Territory,1,n.p.,n.p., ,C44
+45207,Incidence,Non-melanoma skin cancer (rare types),2008,Persons,Australia,642,2.8,3.7, ,C44
+45208,Incidence,Non-melanoma skin cancer (rare types),2009,Males,New South Wales,190,5.5,7.3, ,C44
+45209,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Victoria,47,1.8,2.3, ,C44
+45210,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Queensland,135,7,9.3, ,C44
+45211,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Western Australia,46,4.6,6, ,C44
+45212,Incidence,Non-melanoma skin cancer (rare types),2009,Males,South Australia,15,1.7,2.3, ,C44
+45213,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Tasmania,9,3.2,4.3, ,C44
+45214,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Australian Capital Territory,3,n.p.,n.p., ,C44
+45215,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Northern Territory,1,n.p.,n.p., ,C44
+45216,Incidence,Non-melanoma skin cancer (rare types),2009,Males,Australia,446,4.3,5.7, ,C44
+45217,Incidence,Non-melanoma skin cancer (rare types),2009,Females,New South Wales,111,2.4,3.2, ,C44
+45218,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Victoria,32,0.9,1.3, ,C44
+45219,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Queensland,55,2.2,3, ,C44
+45220,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Western Australia,31,2.5,3.3, ,C44
+45221,Incidence,Non-melanoma skin cancer (rare types),2009,Females,South Australia,11,0.9,1.3, ,C44
+45222,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Tasmania,5,1.5,1.9, ,C44
+45223,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45224,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Northern Territory,0,0,0, ,C44
+45225,Incidence,Non-melanoma skin cancer (rare types),2009,Females,Australia,248,1.8,2.5, ,C44
+45226,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,New South Wales,301,3.8,5, ,C44
+45227,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Victoria,79,1.3,1.7, ,C44
+45228,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Queensland,190,4.4,5.8, ,C44
+45229,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Western Australia,77,3.5,4.6, ,C44
+45230,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,South Australia,26,1.3,1.8, ,C44
+45231,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Tasmania,14,2.2,2.9, ,C44
+45232,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Australian Capital Territory,5,1.9,2.6, ,C44
+45233,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Northern Territory,1,n.p.,n.p., ,C44
+45234,Incidence,Non-melanoma skin cancer (rare types),2009,Persons,Australia,694,2.9,3.9, ,C44
+45235,Incidence,Non-melanoma skin cancer (rare types),2010,Males,New South Wales,174,4.8,6.4, ,C44
+45236,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Victoria,49,1.8,2.5, ,C44
+45237,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Queensland,118,5.7,7.7, ,C44
+45238,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Western Australia,51,5.2,6.9, ,C44
+45239,Incidence,Non-melanoma skin cancer (rare types),2010,Males,South Australia,22,2.4,3.4, ,C44
+45240,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Tasmania,12,4.1,5.3, ,C44
+45241,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Australian Capital Territory,4,n.p.,n.p., ,C44
+45242,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Northern Territory,1,n.p.,n.p., ,C44
+45243,Incidence,Non-melanoma skin cancer (rare types),2010,Males,Australia,434,4,5.4, ,C44
+45244,Incidence,Non-melanoma skin cancer (rare types),2010,Females,New South Wales,120,2.6,3.4, ,C44
+45245,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Victoria,33,1,1.2, ,C44
+45246,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Queensland,64,2.6,3.4, ,C44
+45247,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Western Australia,29,2.3,3.1, ,C44
+45248,Incidence,Non-melanoma skin cancer (rare types),2010,Females,South Australia,7,0.6,0.8, ,C44
+45249,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Tasmania,10,2.9,3.7, ,C44
+45250,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45251,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Northern Territory,0,0,0, ,C44
+45252,Incidence,Non-melanoma skin cancer (rare types),2010,Females,Australia,265,1.9,2.6, ,C44
+45253,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,New South Wales,294,3.6,4.8, ,C44
+45254,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Victoria,82,1.3,1.8, ,C44
+45255,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Queensland,182,4,5.4, ,C44
+45256,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Western Australia,80,3.6,4.8, ,C44
+45257,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,South Australia,29,1.4,1.9, ,C44
+45258,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Tasmania,22,3.6,4.6, ,C44
+45259,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Australian Capital Territory,6,2.1,2.9, ,C44
+45260,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Northern Territory,1,n.p.,n.p., ,C44
+45261,Incidence,Non-melanoma skin cancer (rare types),2010,Persons,Australia,699,2.9,3.8, ,C44
+45262,Incidence,Non-melanoma skin cancer (rare types),2011,Males,New South Wales,188,5,6.8, ,C44
+45263,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Victoria,37,1.4,1.9, ,C44
+45264,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Queensland,121,5.7,7.6, ,C44
+45265,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Western Australia,58,5.4,7, ,C44
+45266,Incidence,Non-melanoma skin cancer (rare types),2011,Males,South Australia,30,3.2,4.2, ,C44
+45267,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Tasmania,10,3.5,4.6, ,C44
+45268,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Australian Capital Territory,4,n.p.,n.p., ,C44
+45269,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Northern Territory,1,n.p.,n.p., ,C44
+45270,Incidence,Non-melanoma skin cancer (rare types),2011,Males,Australia,450,4,5.4, ,C44
+45271,Incidence,Non-melanoma skin cancer (rare types),2011,Females,New South Wales,106,2.3,3, ,C44
+45272,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Victoria,23,0.6,0.8, ,C44
+45273,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Queensland,60,2.3,3.1, ,C44
+45274,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Western Australia,39,3.2,4.3, ,C44
+45275,Incidence,Non-melanoma skin cancer (rare types),2011,Females,South Australia,6,0.5,0.7, ,C44
+45276,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Tasmania,2,n.p.,n.p., ,C44
+45277,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45278,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Northern Territory,0,0,0, ,C44
+45279,Incidence,Non-melanoma skin cancer (rare types),2011,Females,Australia,238,1.7,2.3, ,C44
+45280,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,New South Wales,294,3.4,4.6, ,C44
+45281,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Victoria,60,0.9,1.3, ,C44
+45282,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Queensland,181,3.9,5.2, ,C44
+45283,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Western Australia,97,4.2,5.6, ,C44
+45284,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,South Australia,36,1.7,2.3, ,C44
+45285,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Tasmania,12,1.9,2.5, ,C44
+45286,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Australian Capital Territory,6,1.9,2.6, ,C44
+45287,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45288,Incidence,Non-melanoma skin cancer (rare types),2011,Persons,Australia,688,2.8,3.7, ,C44
+45289,Incidence,Non-melanoma skin cancer (rare types),2012,Males,New South Wales,200,5.3,7.1, ,C44
+45290,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Victoria,36,1.2,1.6, ,C44
+45291,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Queensland,131,6,8.2, ,C44
+45292,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Western Australia,71,6.5,8.7, ,C44
+45293,Incidence,Non-melanoma skin cancer (rare types),2012,Males,South Australia,24,2.5,3.4, ,C44
+45294,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Tasmania,11,3.5,4.5, ,C44
+45295,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Australian Capital Territory,5,3.3,4.7, ,C44
+45296,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Northern Territory,1,n.p.,n.p., ,C44
+45297,Incidence,Non-melanoma skin cancer (rare types),2012,Males,Australia,478,4.2,5.6, ,C44
+45298,Incidence,Non-melanoma skin cancer (rare types),2012,Females,New South Wales,115,2.3,3.1, ,C44
+45299,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Victoria,27,0.7,1, ,C44
+45300,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Queensland,72,2.7,3.6, ,C44
+45301,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Western Australia,47,3.6,4.7, ,C44
+45302,Incidence,Non-melanoma skin cancer (rare types),2012,Females,South Australia,13,0.9,1.2, ,C44
+45303,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Tasmania,8,2,2.8, ,C44
+45304,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45305,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Northern Territory,1,n.p.,n.p., ,C44
+45306,Incidence,Non-melanoma skin cancer (rare types),2012,Females,Australia,285,2,2.6, ,C44
+45307,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,New South Wales,315,3.6,4.9, ,C44
+45308,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Victoria,63,1,1.3, ,C44
+45309,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Queensland,203,4.2,5.7, ,C44
+45310,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Western Australia,118,4.9,6.4, ,C44
+45311,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,South Australia,37,1.6,2.2, ,C44
+45312,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Tasmania,19,2.8,3.7, ,C44
+45313,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Australian Capital Territory,7,2.1,2.8, ,C44
+45314,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45315,Incidence,Non-melanoma skin cancer (rare types),2012,Persons,Australia,763,3,4, ,C44
+45316,Incidence,Non-melanoma skin cancer (rare types),2013,Males,New South Wales,240,6.1,8.1, ,C44
+45317,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Victoria,56,1.9,2.5, ,C44
+45318,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Queensland,149,6.7,8.8, ,C44
+45319,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Western Australia,87,7.8,10.8, ,C44
+45320,Incidence,Non-melanoma skin cancer (rare types),2013,Males,South Australia,23,2.3,3.1, ,C44
+45321,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Tasmania,12,3.9,4.9, ,C44
+45322,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Australian Capital Territory,5,3.5,4.9, ,C44
+45323,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Northern Territory,1,n.p.,n.p., ,C44
+45324,Incidence,Non-melanoma skin cancer (rare types),2013,Males,Australia,575,4.9,6.5, ,C44
+45325,Incidence,Non-melanoma skin cancer (rare types),2013,Females,New South Wales,116,2.4,3.1, ,C44
+45326,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Victoria,29,0.7,1, ,C44
+45327,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Queensland,72,2.7,3.6, ,C44
+45328,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Western Australia,44,3.2,4.3, ,C44
+45329,Incidence,Non-melanoma skin cancer (rare types),2013,Females,South Australia,9,0.8,0.9, ,C44
+45330,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Tasmania,5,1.4,1.8, ,C44
+45331,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45332,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Northern Territory,0,0,0, ,C44
+45333,Incidence,Non-melanoma skin cancer (rare types),2013,Females,Australia,275,1.9,2.5, ,C44
+45334,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,New South Wales,356,4,5.3, ,C44
+45335,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Victoria,85,1.2,1.7, ,C44
+45336,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Queensland,221,4.5,5.9, ,C44
+45337,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Western Australia,131,5.2,7.1, ,C44
+45338,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,South Australia,32,1.5,1.9, ,C44
+45339,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Tasmania,17,2.5,3.2, ,C44
+45340,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Australian Capital Territory,7,2,2.7, ,C44
+45341,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45342,Incidence,Non-melanoma skin cancer (rare types),2013,Persons,Australia,850,3.2,4.3, ,C44
+45343,Incidence,Non-melanoma skin cancer (rare types),2014,Males,New South Wales,224,5.5,7.4, ,C44
+45344,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Victoria,83,2.7,3.6, ,C44
+45345,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Queensland,131,5.6,7.5, ,C44
+45346,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Western Australia,77,6.5,8.6, ,C44
+45347,Incidence,Non-melanoma skin cancer (rare types),2014,Males,South Australia,27,2.7,3.6, ,C44
+45348,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Tasmania,11,3.9,5, ,C44
+45349,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Australian Capital Territory,5,3.5,4.8, ,C44
+45350,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Northern Territory,1,n.p.,n.p., ,C44
+45351,Incidence,Non-melanoma skin cancer (rare types),2014,Males,Australia,560,4.6,6.1, ,C44
+45352,Incidence,Non-melanoma skin cancer (rare types),2014,Females,New South Wales,117,2.3,3.1, ,C44
+45353,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Victoria,38,0.9,1.3, ,C44
+45354,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Queensland,74,2.7,3.6, ,C44
+45355,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Western Australia,43,3.1,3.9, ,C44
+45356,Incidence,Non-melanoma skin cancer (rare types),2014,Females,South Australia,16,1.3,1.7, ,C44
+45357,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Tasmania,5,1.4,1.7, ,C44
+45358,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Australian Capital Territory,1,n.p.,n.p., ,C44
+45359,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Northern Territory,0,0,0, ,C44
+45360,Incidence,Non-melanoma skin cancer (rare types),2014,Females,Australia,294,2,2.6, ,C44
+45361,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,New South Wales,341,3.8,5, ,C44
+45362,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Victoria,121,1.7,2.3, ,C44
+45363,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Queensland,205,4,5.3, ,C44
+45364,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Western Australia,120,4.7,6.1, ,C44
+45365,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,South Australia,43,1.9,2.5, ,C44
+45366,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Tasmania,16,2.5,3.1, ,C44
+45367,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Australian Capital Territory,7,1.9,2.6, ,C44
+45368,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45369,Incidence,Non-melanoma skin cancer (rare types),2014,Persons,Australia,854,3.2,4.2, ,C44
+45370,Incidence,Non-melanoma skin cancer (rare types),2015,Males,New South Wales,250,6,8.2, ,C44
+45371,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Victoria,79,2.5,3.3, ,C44
+45372,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Queensland,138,5.7,7.5, ,C44
+45373,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Western Australia,82,7,9.2, ,C44
+45374,Incidence,Non-melanoma skin cancer (rare types),2015,Males,South Australia,30,3,3.9, ,C44
+45375,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Tasmania,10,3.1,4.3, ,C44
+45376,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Australian Capital Territory,5,3.4,4.6, ,C44
+45377,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Northern Territory,2,n.p.,n.p., ,C44
+45378,Incidence,Non-melanoma skin cancer (rare types),2015,Males,Australia,598,4.8,6.4, ,C44
+45379,Incidence,Non-melanoma skin cancer (rare types),2015,Females,New South Wales,137,2.6,3.5, ,C44
+45380,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Victoria,39,1,1.3, ,C44
+45381,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Queensland,83,2.9,3.9, ,C44
+45382,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Western Australia,43,2.9,3.9, ,C44
+45383,Incidence,Non-melanoma skin cancer (rare types),2015,Females,South Australia,15,0.9,1.3, ,C44
+45384,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Tasmania,14,3.7,4.8, ,C44
+45385,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Australian Capital Territory,1,n.p.,n.p., ,C44
+45386,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Northern Territory,0,0,0, ,C44
+45387,Incidence,Non-melanoma skin cancer (rare types),2015,Females,Australia,333,2.1,2.9, ,C44
+45388,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,New South Wales,387,4.1,5.6, ,C44
+45389,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Victoria,118,1.6,2.2, ,C44
+45390,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Queensland,221,4.2,5.6, ,C44
+45391,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Western Australia,125,4.8,6.4, ,C44
+45392,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,South Australia,45,1.9,2.5, ,C44
+45393,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Tasmania,24,3.4,4.5, ,C44
+45394,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Australian Capital Territory,7,1.9,2.5, ,C44
+45395,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45396,Incidence,Non-melanoma skin cancer (rare types),2015,Persons,Australia,931,3.3,4.5, ,C44
+45397,Incidence,Non-melanoma skin cancer (rare types),2016,Males,New South Wales,258,6,8.2, ,C44
+45398,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Victoria,91,2.8,3.8, ,C44
+45399,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Queensland,159,6.3,8.6, ,C44
+45400,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Western Australia,71,5.8,7.8, ,C44
+45401,Incidence,Non-melanoma skin cancer (rare types),2016,Males,South Australia,38,3.4,4.8, ,C44
+45402,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Tasmania,11,3.4,4.4, ,C44
+45403,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Australian Capital Territory,6,3.4,4.4, ,C44
+45404,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Northern Territory,2,n.p.,n.p., ,C44
+45405,Incidence,Non-melanoma skin cancer (rare types),2016,Males,Australia,637,4.9,6.7, ,C44
+45406,Incidence,Non-melanoma skin cancer (rare types),2016,Females,New South Wales,144,2.7,3.6, ,C44
+45407,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Victoria,47,1.1,1.5, ,C44
+45408,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Queensland,76,2.6,3.4, ,C44
+45409,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Western Australia,55,3.7,5, ,C44
+45410,Incidence,Non-melanoma skin cancer (rare types),2016,Females,South Australia,13,1,1.2, ,C44
+45411,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Tasmania,3,n.p.,n.p., ,C44
+45412,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45413,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Northern Territory,0,0,0, ,C44
+45414,Incidence,Non-melanoma skin cancer (rare types),2016,Females,Australia,342,2.2,2.9, ,C44
+45415,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,New South Wales,402,4.2,5.6, ,C44
+45416,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Victoria,138,1.9,2.5, ,C44
+45417,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Queensland,235,4.3,5.7, ,C44
+45418,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Western Australia,126,4.6,6.2, ,C44
+45419,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,South Australia,51,2,2.8, ,C44
+45420,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Tasmania,14,2,2.6, ,C44
+45421,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Australian Capital Territory,7,2,2.6, ,C44
+45422,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Northern Territory,2,n.p.,n.p., ,C44
+45423,Incidence,Non-melanoma skin cancer (rare types),2016,Persons,Australia,979,3.4,4.6, ,C44
+45424,Incidence,Non-melanoma skin cancer (rare types),2017,Males,New South Wales,298,6.7,9.1, ,C44
+45425,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Victoria,150,4.4,6.1, ,C44
+45426,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Queensland,165,6.3,8.5, ,C44
+45427,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Western Australia,73,5.7,7.8, ,C44
+45428,Incidence,Non-melanoma skin cancer (rare types),2017,Males,South Australia,30,2.7,3.7, ,C44
+45429,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Tasmania,12,3.6,4.5, ,C44
+45430,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Australian Capital Territory,6,3.2,4.3, ,C44
+45431,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Northern Territory,3,n.p.,n.p., ,C44
+45432,Incidence,Non-melanoma skin cancer (rare types),2017,Males,Australia,736,5.5,7.4, ,C44
+45433,Incidence,Non-melanoma skin cancer (rare types),2017,Females,New South Wales,133,2.4,3.3, ,C44
+45434,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Victoria,76,1.8,2.4, ,C44
+45435,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Queensland,97,3.1,4.2, ,C44
+45436,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Western Australia,49,3.1,4.2, ,C44
+45437,Incidence,Non-melanoma skin cancer (rare types),2017,Females,South Australia,21,1.5,2.1, ,C44
+45438,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Tasmania,9,2.6,3, ,C44
+45439,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Australian Capital Territory,1,n.p.,n.p., ,C44
+45440,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Northern Territory,0,0,0, ,C44
+45441,Incidence,Non-melanoma skin cancer (rare types),2017,Females,Australia,387,2.4,3.2, ,C44
+45442,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,New South Wales,431,4.4,5.9, ,C44
+45443,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Victoria,226,3,4, ,C44
+45444,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Queensland,262,4.6,6.2, ,C44
+45445,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Western Australia,122,4.3,5.8, ,C44
+45446,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,South Australia,51,2.1,2.8, ,C44
+45447,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Tasmania,21,3.1,3.8, ,C44
+45448,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Australian Capital Territory,7,1.9,2.5, ,C44
+45449,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Northern Territory,3,n.p.,n.p., ,C44
+45450,Incidence,Non-melanoma skin cancer (rare types),2017,Persons,Australia,1123,3.8,5.1, ,C44
+45451,Incidence,Non-melanoma skin cancer (rare types),2018,Males,New South Wales,278,6.1,8.4, ,C44
+45452,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Victoria,94,2.7,3.7, ,C44
+45453,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Queensland,148,5.6,7.5, ,C44
+45454,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Western Australia,62,4.7,6.5, ,C44
+45455,Incidence,Non-melanoma skin cancer (rare types),2018,Males,South Australia,31,2.8,3.7, ,C44
+45456,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Tasmania,17,5,6.7, ,C44
+45457,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Australian Capital Territory,5,2.6,3.5, ,C44
+45458,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Northern Territory,2,n.p.,n.p., ,C44
+45459,Incidence,Non-melanoma skin cancer (rare types),2018,Males,Australia,634,4.6,6.3, ,C44
+45460,Incidence,Non-melanoma skin cancer (rare types),2018,Females,New South Wales,182,3.3,4.4, ,C44
+45461,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Victoria,50,1.1,1.5, ,C44
+45462,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Queensland,74,2.3,3.1, ,C44
+45463,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Western Australia,38,2.5,3.2, ,C44
+45464,Incidence,Non-melanoma skin cancer (rare types),2018,Females,South Australia,16,1.2,1.6, ,C44
+45465,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Tasmania,7,1.5,2.1, ,C44
+45466,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45467,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Northern Territory,1,n.p.,n.p., ,C44
+45468,Incidence,Non-melanoma skin cancer (rare types),2018,Females,Australia,371,2.2,2.9, ,C44
+45469,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,New South Wales,460,4.6,6.1, ,C44
+45470,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Victoria,144,1.8,2.5, ,C44
+45471,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Queensland,222,3.8,5.1, ,C44
+45472,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Western Australia,100,3.5,4.6, ,C44
+45473,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,South Australia,47,1.9,2.6, ,C44
+45474,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Tasmania,24,3,4.1, ,C44
+45475,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Australian Capital Territory,7,1.7,2.3, ,C44
+45476,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Northern Territory,3,n.p.,n.p., ,C44
+45477,Incidence,Non-melanoma skin cancer (rare types),2018,Persons,Australia,1005,3.3,4.4, ,C44
+45478,Incidence,Non-melanoma skin cancer (rare types),2019,Males,New South Wales,343,7.4,9.9, ,C44
+45479,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Victoria,154,4.3,5.8, ,C44
+45480,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Queensland,210,7.6,10.3, ,C44
+45481,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Western Australia,86,6.1,8.4, ,C44
+45482,Incidence,Non-melanoma skin cancer (rare types),2019,Males,South Australia,32,2.7,3.8, ,C44
+45483,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Tasmania,15,3.8,5.4, ,C44
+45484,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Australian Capital Territory,6,3,4, ,C44
+45485,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Northern Territory,2,n.p.,n.p., ,C44
+45486,Incidence,Non-melanoma skin cancer (rare types),2019,Males,Australia,849,6,8.1, ,C44
+45487,Incidence,Non-melanoma skin cancer (rare types),2019,Females,New South Wales,157,2.8,3.8, ,C44
+45488,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Victoria,86,2,2.6, ,C44
+45489,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Queensland,111,3.4,4.5, ,C44
+45490,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Western Australia,43,2.4,3.4, ,C44
+45491,Incidence,Non-melanoma skin cancer (rare types),2019,Females,South Australia,13,0.9,1.2, ,C44
+45492,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Tasmania,7,1.7,2.3, ,C44
+45493,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Australian Capital Territory,2,n.p.,n.p., ,C44
+45494,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Northern Territory,1,n.p.,n.p., ,C44
+45495,Incidence,Non-melanoma skin cancer (rare types),2019,Females,Australia,420,2.4,3.3, ,C44
+45496,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,New South Wales,500,4.9,6.6, ,C44
+45497,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Victoria,240,3,4, ,C44
+45498,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Queensland,321,5.3,7.1, ,C44
+45499,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Western Australia,129,4.2,5.7, ,C44
+45500,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,South Australia,45,1.7,2.3, ,C44
+45501,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Tasmania,22,2.6,3.7, ,C44
+45502,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Australian Capital Territory,8,1.9,2.6, ,C44
+45503,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Northern Territory,3,n.p.,n.p., ,C44
+45504,Incidence,Non-melanoma skin cancer (rare types),2019,Persons,Australia,1269,4.1,5.4, ,C44
+45505,Incidence,Oesophageal cancer,1982,Males,New South Wales,112,5.7,7.4, ,C15

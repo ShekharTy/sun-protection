@@ -1,0 +1,38 @@
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    margin-top: 100px;
+  }
+  
+  .uvlevel-heading {
+    background-color: #FAFF00;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 10px 0;
+    font-weight: bold;
+    width: 400px;
+    height: 60px;
+    font-size: 40px;
+  }
+  
+  .info {
+    text-align: center;
+  }
+  
+  .info input, .info button {
+    margin-top: 10px; 
+  }
+  
+  .info input {
+    width: 300px;
+  }
+  
+  .info button {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
+  

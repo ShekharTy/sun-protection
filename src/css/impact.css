@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .plot {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .plot img {
+    width: 100%;
+    max-width: 600px; 
+    height: auto; 
+  }
+  .plot-heat img{
+    margin: 20px;
+    width: 100%;
+    max-width: 800px; 
+    height: auto; 
+  }
+
+  .plot-heat{
+    text-align: center;
+  }
+  
