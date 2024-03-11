@@ -24,9 +24,9 @@ function UseSunscreen() {
                     <select value={hour} onChange={(e) => setHour(e.target.value)} className='time-selector'>
                         <option value="" disabled>Hour</option>
                         {[...Array(10).keys()].map(h => (
-                            <option key={h + 10} value={h + 10}>{`${h + 10}:00`}</option>
+                            <option key={h + 10} value={h + 10}>{`${h + 10}`}</option>
                         ))}
-                    </select>
+                    </select> :
                     <select value={minute} onChange={(e) => setMinute(e.target.value)} className='time-selector'>
                         <option value="" disabled>Minute</option>
                         {[...Array(60).keys()].map(m => (

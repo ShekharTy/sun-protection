@@ -14,7 +14,8 @@ function Header() {
       <button className='uvlevel' onClick={() => navigate('/uvlevel')}>UV Level Finder</button>
       <button onClick={() => navigate('/sunprotect')}>Sun Protection</button>
       <button onClick={() => navigate('/impact')}>UV Impacts</button>
-      <button onClick={() => navigate('/use-sunscreen')}>Sunscreen Usage</button>
+      <button onClick={() => navigate('/sunscreen-usage')}>Sunscreen Usage</button>
+      <button onClick={() => navigate('/use-sunscreen')}>Sunscreen Reminder</button>
       <button onClick={() => navigate('/team-info')}>Team Info</button>
     </div>
   );

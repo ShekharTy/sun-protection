@@ -1,0 +1,28 @@
+.sunscreen-table {
+    width: 60%; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .sunscreen-table th, .sunscreen-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: lightyellow ;
+  }
+  
+  .sunscreen-table th {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .sunscreen-table tr:hover {
+    background-color: #ddd;
+  }
+    
+  .content {
+      text-align: center;
+  }
