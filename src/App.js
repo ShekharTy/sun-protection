@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Password from './components/password';
 import Dashboard from './components/dashboard'; 
 import UVImpact from './components/impact';
