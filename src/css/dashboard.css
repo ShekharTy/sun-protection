@@ -1,4 +1,42 @@
 body {
-    background-color: #FFC700; 
+    background-color: #FFC700;
 }
 
+img {
+    width: 50%;
+    height: auto;
+}
+
+.picture {
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+.picture h1 {
+    position: absolute;
+    left: 800px;
+    top: 135px;
+}
+
+.picture h3{
+    position: absolute;
+    left: 800px;
+    top: 300px;
+    margin-right: 45px;
+}
+
+.picture button{
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    background-color: #FAFF00;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 10px 0;
+    font-weight: bold;
+    width: 400px;
+    height: 60px;
+    cursor: pointer;
+}
