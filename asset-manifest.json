@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sun-smart-protection/static/css/main.14a595c1.css",
-    "main.js": "/sun-smart-protection/static/js/main.b6b9b24f.js",
+    "main.js": "/sun-smart-protection/static/js/main.fbe6da1c.js",
     "static/js/453.ed3810f9.chunk.js": "/sun-smart-protection/static/js/453.ed3810f9.chunk.js",
     "static/media/dashboard.jpg": "/sun-smart-protection/static/media/dashboard.d085f544b635906d11f3.jpg",
     "static/media/team_pic.jpeg": "/sun-smart-protection/static/media/team_pic.16cc02ae1accd4d6679d.jpeg",
@@ -10,11 +10,11 @@
     "static/media/Skin Cancer Trend yearly.png": "/sun-smart-protection/static/media/Skin Cancer Trend yearly.c63f2445896f199f6f0f.png",
     "index.html": "/sun-smart-protection/index.html",
     "main.14a595c1.css.map": "/sun-smart-protection/static/css/main.14a595c1.css.map",
-    "main.b6b9b24f.js.map": "/sun-smart-protection/static/js/main.b6b9b24f.js.map",
+    "main.fbe6da1c.js.map": "/sun-smart-protection/static/js/main.fbe6da1c.js.map",
     "453.ed3810f9.chunk.js.map": "/sun-smart-protection/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14a595c1.css",
-    "static/js/main.b6b9b24f.js"
+    "static/js/main.fbe6da1c.js"
   ]
 }
