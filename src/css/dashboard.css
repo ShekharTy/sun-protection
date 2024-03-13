@@ -1,42 +1,55 @@
 body {
     background-color: #FFC700;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
 }
 
 img {
-    width: 50%;
-    height: auto;
+    width: 100%; 
+    height: auto; 
 }
 
 .picture {
-    display: inline-block;
-    margin-top: 70px;
-    margin-left: 80px;
+    display: flex;
+    justify-content: space-around; 
+    padding: 1%;
+    gap: 20px; 
 }
 
-.picture h1 {
-    position: absolute;
-    left: 800px;
-    top: 135px;
+
+
+.image {
+    flex: 1; 
+    max-width: 50%; 
 }
 
-.picture h3{
-    position: absolute;
-    left: 800px;
-    top: 300px;
-    margin-right: 45px;
+.text {
+    flex: 1; 
+    max-width: 50%;
+    margin-top: 0px;
 }
 
-.picture button{
-    position: absolute;
-    top: 500px;
-    left: 900px;
+.picture h3, .picture button {
+    margin: 10px 0;
+}
+
+.picture button {
     background-color: #FAFF00;
     color: black;
     padding: 10px 20px;
     border-radius: 15px;
-    margin: 10px 0;
     font-weight: bold;
-    width: 400px;
-    height: 60px;
+    font-size: x-large;
+    width: 30%; 
     cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .picture {
+        flex-direction: column; 
+    }
+    .image, .text {
+        max-width: 100%; 
+    }
 }
