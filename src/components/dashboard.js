@@ -19,6 +19,14 @@ function Dashboard() {
                 <button className='uvlevel' onClick={() => navigate('/uvlevel')}>UV Level Finder</button>
                 </div>
             </div>
+            <div className='website-info'>
+                    <h1>UV Level Finder</h1>
+                    <p>This page offers user the ability to check the UV index in their postocde or suburb. Furthermore, it also provides appropriate clothing information according to the user's UV index. Finally, with this information users can make an informed decision about the precautions and preparations they should make to minimise the chance of skin damage from UV rays.</p>
+                    <h1>Sun Protection</h1>
+                    <h1>UV Impacts</h1>
+                    <h1>Sunscreen Usage</h1>
+                    <h1>Sunscreen Reminder</h1>
+                </div>
         </div>
     );
 }

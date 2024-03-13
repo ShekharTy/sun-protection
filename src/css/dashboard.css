@@ -41,7 +41,7 @@ img {
     border-radius: 15px;
     font-weight: bold;
     font-size: x-large;
-    width: 30%; 
+    width: 29%; 
     cursor: pointer;
 }
 
@@ -52,4 +52,13 @@ img {
     .image, .text {
         max-width: 100%; 
     }
+}
+.website-info{
+    text-align: center;
+}
+
+.website-info h1{
+    background-color: black;
+    color: white;
+    padding: 2%;
 }
