@@ -10,7 +10,7 @@ function UVLevels() {
       document.title = `UV Level Finder`;
   }); 
   const fetchUVIndex = async (latitude, longitude) => {
-    const apiKey = 'b70c29c4587b5fbe7c50d0fd77bcd82f'; 
+    const apiKey = process.env.REACT_APP_API_KEY;
     const apiUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${latitude}&lon=${longitude}&exclude=minutely,hourly,daily,alerts&appid=${apiKey}`;
 
     try {
