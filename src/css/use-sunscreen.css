@@ -13,9 +13,10 @@
     border-radius: 15px;
     margin: 10px 0;
     font-weight: bold;
-    width: 400px;
-    height: 60px;
+    width: 600px;
+    height: 65px;
     cursor: pointer;
+    font-size: 40px;
 }
 
 .sub-heading {
@@ -25,8 +26,8 @@
     border-radius: 15px;
     margin: 10px 0;
     font-weight: bold;
-    width: 400px;
-    height: 60px;
+    width: 500px;
+    height: 65px;
     cursor: pointer;
 }
 
@@ -51,4 +52,20 @@
     border-radius: 5px;
     margin-top: 20px;
     cursor: pointer;
+    width: 150px;
+    height: 50px;
+}
+
+.spf-select{
+    margin-top: 30px;
+}
+
+.spf-selector{
+    width: 200px;
+    height: 40px;
+}
+
+.countdown{
+    margin-top: 20px;
+    font-size: x-large;
 }

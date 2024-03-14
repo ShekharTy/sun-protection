@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from './header'
 import '../css/dashboard.css';
@@ -6,6 +6,9 @@ import dashboardpage from '../data/dashboard.jpg';
 
 function Dashboard() {
     let navigate = useNavigate();
+    useEffect(() => {
+        document.title = `Home`;
+    }); 
     return (
         <div>
             <Header />

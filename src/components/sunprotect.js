@@ -1,43 +1,83 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Header from './header';
 import '../css/sunprotect.css';
+import uvRecommendations from '../data/uv_recommend.json';
+import sunprotection from '../data/Sun protection.png';
+import sunscreen from '../data/Sunscreen.png';
 
 function Sunprotect() {
-  const sunProtectionData = [
-    { uvIndex: '0-2', skinDamage: 'Low', info: 'Lightweight, long-sleeved shirts and trousers covering the skin. Pair it with a wide-brimmed hat.' },
-    { uvIndex: '3-5', skinDamage: 'Moderate', info: 'Densely woven fabric through which light cannot pass. Wide brimmed hat that covers your ears, face and back of the neck. Also put on some sunglasses.' },
-    { uvIndex: '6-7', skinDamage: 'High', info: 'Opt for clothes with a Ultraviolet Protection Factor (UPF) label for maximum protection. Pair them with a broad brimmed hat and UV-blocking sunglasses.' },
-    { uvIndex: '8-10', skinDamage: 'Very High', info: 'Minimize sun exposure and opt for clothes with UPF 50+ rating. Broad brimmed hat, UV blocking sunglasses and put on some gloves as well.' },
-    { uvIndex: '11+', skinDamage: 'Extreme', info: 'Avoid all sun exposure. ' },
-  ];
+  const [uvLevel, setUvLevel] = useState('');
+  const [displayRecommendation, setDisplayRecommendation] = useState(null);
+  const [errorMessage, setErrorMessage] = useState(''); 
+  useEffect(() => {
+    document.title = `Sun Protection`;
+}); 
+  const handleEnter = () => {
+    const uvLevelInt = parseInt(uvLevel, 10);
+
+
+    setDisplayRecommendation(null);
+    setErrorMessage('');
+
+    if (isNaN(uvLevelInt) || uvLevelInt < 0 || uvLevelInt > 11) {
+
+      setErrorMessage('Please enter a valid UV level (0-11).');
+    } else {
+      const recommendation = uvRecommendations.find(r => r.uv === uvLevelInt);
+      if (recommendation) {
+        setDisplayRecommendation(recommendation);
+      } else {
+
+        setErrorMessage('No recommendation found for the entered UV level.');
+      }
+    }
+  };
 
   return (
     <div>
       <Header />
       <div className='content'>
-      <h2>Clothing is the most effective form of sun protection (skincancer.org)</h2>
-      <p>All the information below has been fetched from the website skincancer.org</p>
-      <p>When it comes to sun protective clothing there is a rating consideration called Ultraviolet Protection Factor (UPF)</p>
-      <p>A fabric must have a UPF of 30 to qualify for The Skin Cancer Foundation’s Seal of Recommendation. A UPF of 30 to 49 offers very good protection, while UPF 50+ rates as excellent (skincancer.org).</p>
+        <div className="something">Sun Protection information for UV Level</div>
+        <h1>Please Enter your UV Level</h1>
+
+        {/* UV Level Input and Enter Button */}
+        <input
+          type="number"
+          value={uvLevel}
+          onChange={e => setUvLevel(e.target.value)}
+          placeholder="Enter your UV level"
+        />
+        <button onClick={handleEnter}>Enter</button>
+
+        {/* Display error message if present */}
+        {errorMessage && <p className="error-message">{errorMessage}</p>}
+
+        {/* Display the filtered recommendation in a table */}
+        {displayRecommendation && (
+          <table className="sunProtectionTable">
+            <thead>
+              <tr>
+                <th>UV Level</th>
+                <th>Risk</th>
+                <th>Protection</th>
+                <th>Sunscreen</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>{displayRecommendation.uv}</td>
+                <td>{displayRecommendation.risk}</td>
+                <td>{displayRecommendation.protection}</td>
+                <td>{displayRecommendation.sunscreen}</td>
+              </tr>
+            </tbody>
+          </table>
+        )}
+        <div className="images-container">
+          <img src={sunprotection} alt='Sun Protection Information' />
+          <img src={sunscreen} alt='Sun Screen Information' />
+        </div>
       </div>
-      <table className="sunProtectionTable">
-        <thead>
-          <tr>
-            <th>UV Level</th>
-            <th>Skin Damage Risk</th>
-            <th>Sun Protection Information</th>
-          </tr>
-        </thead>
-        <tbody>
-          {sunProtectionData.map((data, index) => (
-            <tr key={index}>
-              <td>{data.uvIndex}</td>
-              <td>{data.skinDamage}</td>
-              <td>{data.info}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
     </div>
   );
 }

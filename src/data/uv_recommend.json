@@ -1,0 +1,74 @@
+[
+    {
+        "uv": 0,
+        "risk": "Low",
+        "protection": "Lightweight, long-sleeved shirts and trousers covering the skin. Pair it with a wide-brimmed hat.",
+        "sunscreen": "Put on daily sunscreen of at least 15 SPF."
+    },
+    {
+        "uv": 1,
+        "risk": "Low",
+        "protection": "Lightweight, long-sleeved shirts and trousers covering the skin. Pair it with a wide-brimmed hat.",
+        "sunscreen": "Put on daily sunscreen of at least 15 SPF."
+    },
+    {
+        "uv": 2,
+        "risk": "Low",
+        "protection": "Lightweight, long-sleeved shirts and trousers covering the skin. Pair it with a wide-brimmed hat.",
+        "sunscreen": "Put on daily sunscreen of at least 15 SPF."
+    },
+    {
+        "uv": 3,
+        "risk": "Moderate",
+        "protection": "Densely woven fabric through which light cannot pass. Wide brimmed hat that covers your ears, face and back of the neck. Also put on some sunglasses.",
+        "sunscreen": "Wear sunscreen of at least 30 SPF."
+    },
+    {
+        "uv": 4,
+        "risk": "Moderate",
+        "protection": "Densely woven fabric through which light cannot pass. Wide brimmed hat that covers your ears, face and back of the neck. Also put on some sunglasses.",
+        "sunscreen": "Wear sunscreen of at least 30 SPF."
+    },
+    {
+        "uv": 5,
+        "risk": "Moderate",
+        "protection": "Densely woven fabric through which light cannot pass. Wide brimmed hat that covers your ears, face and back of the neck. Also put on some sunglasses.",
+        "sunscreen": "Wear sunscreen of at least 30 SPF."
+    },
+    {
+        "uv": 6,
+        "risk": "High",
+        "protection": "Opt for clothes with a Ultraviolet Protection Factor (UPF) label for maximum protection. Pair them with a broad brimmed hat and UV-blocking sunglasses.",
+        "sunscreen": "Wear sunscreen of 30+(broad spectrum) SPF."
+    },
+    {
+        "uv": 7,
+        "risk": "High",
+        "protection": "Opt for clothes with a Ultraviolet Protection Factor (UPF) label for maximum protection. Pair them with a broad brimmed hat and UV-blocking sunglasses.",
+        "sunscreen": "Wear sunscreen of 30+(broad spectrum) SPF."
+    },
+    {
+        "uv": 8,
+        "risk": "Very High",
+        "protection": "Minimize sun exposure and opt for clothes with UPF 50+ rating. Broad brimmed hat, UV blocking sunglasses and put on some gloves as well.",
+        "sunscreen": "Wear sunscreen of 30+(broad spectrum) SPF and reapply sunscreen often (at least every two hours)."
+    },
+    {
+        "uv": 9,
+        "risk": "Very High",
+        "protection": "Minimize sun exposure and opt for clothes with UPF 50+ rating. Broad brimmed hat, UV blocking sunglasses and put on some gloves as well.",
+        "sunscreen": "Wear sunscreen of 30+(broad spectrum) SPF and reapply sunscreen often (at least every two hours)."
+    },
+    {
+        "uv": 10,
+        "risk": "Very High",
+        "protection": "Minimize sun exposure and opt for clothes with UPF 50+ rating. Broad brimmed hat, UV blocking sunglasses and put on some gloves as well.",
+        "sunscreen": "Wear sunscreen of 30+(broad spectrum) SPF and reapply sunscreen often (at least every two hours)."
+    },
+    {
+        "uv": 11,
+        "risk": "Extreme",
+        "protection": "Avoid all sun exposure.",
+        "sunscreen": "Wear sunscreen of 50+(broad spectrum) SPF and reapply every 2 hours."
+    }
+]
