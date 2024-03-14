@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import Header from './header';
 import '../css/dashboard.css';
 import dashboardpage from '../data/dashboard.jpg';
+import Footer from './footer';
 
 function Dashboard() {
     let navigate = useNavigate();
@@ -54,6 +55,7 @@ function Dashboard() {
                     </div>
                 </div>
             </div>
+<Footer/>
         </div>
     );
 }
