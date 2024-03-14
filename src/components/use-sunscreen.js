@@ -36,7 +36,7 @@ function UseSunscreen() {
     const handleSetTime = () => {
         const applicationTime = new Date();
         applicationTime.setHours(hour, minute, 0);
-        const reapplicationTime = 2 * 60 * 60 * 1000; // 2 hours in milliseconds
+        const reapplicationTime = 2 * 60 * 60 * 1000; 
         const nextApplicationTime = new Date(applicationTime.getTime() + reapplicationTime);
         setTargetTime(nextApplicationTime);
     };
