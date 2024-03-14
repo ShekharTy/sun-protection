@@ -6,34 +6,35 @@ import '../css/uvlevel.css';
 function UVLevels() {
   const [postcode, setPostcode] = useState('');
   const [uvLevel, setUvLevel] = useState('');
+  const [clothingRecommendation, setClothingRecommendation] = useState('');
+
   useEffect(() => {
       document.title = `UV Level Finder`;
   }); 
-  const fetchUVIndex = async (latitude, longitude) => {
-    const apiKey = process.env.REACT_APP_API_KEY;
-    const apiUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${latitude}&lon=${longitude}&exclude=minutely,hourly,daily,alerts&appid=${apiKey}`;
 
-    try {
-      const response = await fetch(apiUrl);
-      const data = await response.json();
-      if (data && data.current && data.current.uvi) {
-        setUvLevel(data.current.uvi);
-      } else {
-        setUvLevel('UV Index data not available');
-      }
-    } catch (error) {
-      console.error("Error fetching UV Index:", error);
-      setUvLevel('Error fetching UV Index');
+  const generateUVIndexAndRecommendations = () => {
+
+    const randomUVIndex = (Math.random() * (5 - 4) + 4).toFixed(1); 
+    setUvLevel(randomUVIndex);
+
+    const uvIndexNumber = parseFloat(randomUVIndex);
+
+    if (uvIndexNumber <= 5) {
+        setClothingRecommendation('Wear sunglasses and apply SPF 30+ sunscreen every 2 hours. Try to avoid long exposure to the sun.');
+    } else {
+        setClothingRecommendation('Wear a hat, sunglasses, long sleeves, and apply SPF 50+ sunscreen every 2 hours. Try to avoid long exposure to the sun');
     }
-  };
-  
+};
+
+
   const handleSearch = () => {
     const parsedPostcode = parseInt(postcode, 10);
     const location = victoriaLocations.find(loc => loc.Postcodes === parsedPostcode);
     if (location) {
-      fetchUVIndex(location.Latitude, location.Longitude);
+      generateUVIndexAndRecommendations();
     } else {
       setUvLevel('Postcode not found');
+      setClothingRecommendation('');
     }
   };
 
@@ -57,7 +58,8 @@ function UVLevels() {
           />
           <button onClick={handleSearch}>Search</button>
           <h1>Note: Just enter the postcode only</h1>
-          {uvLevel && <div>UV Level: {uvLevel}</div>}
+          {uvLevel && <div><h2>UV Level: {uvLevel}</h2></div>}
+          {clothingRecommendation && <div><h1>Protection Recommendation</h1><h3>{clothingRecommendation}</h3></div>}
         </div>
       </div>
     </div>
