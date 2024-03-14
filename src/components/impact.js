@@ -1,38 +1,64 @@
-import React, {useEffect} from 'react';
+import React, { useEffect, useState } from 'react';
 import Header from './header';
 import yearlyTrend from '../data/Skin Cancer Trend yearly.png';
-import statewiseTrend from '../data/Skin Cancer Trend statewise.png';
-import heatWaveTrend from '../data/Heat wave trend.png';
 import heatWaveTrendAus from '../data/Australia_trend.jpeg';
 import '../css/impact.css';
 
 function Impact() {
+  const [selectedVisualization, setSelectedVisualization] = useState('');
+
   useEffect(() => {
     document.title = `UV Impacts`;
-}); 
+  });
+
+  const renderVisualization = () => {
+    switch (selectedVisualization) {
+      case 'yearlyTrend':
+        return (
+          <div className="visualization-content">
+            <img src={yearlyTrend} alt="Skin Cancer Trend Yearly" />
+            <div className="visualization-info">
+              <h4>Skin Cancer Trend Yearly in Australia</h4>
+              <p>Details about the Skin Cancer Trend Yearly in Australia, showing the increase or decrease over the years. If people would have used appropriate sun protection then the number of skin cancer cases would reduce by 45-50%.</p>
+            </div>
+          </div>
+        );
+      case 'heatWaveTrendAus':
+        return (
+          <div className="visualization-content">
+            <img src={heatWaveTrendAus} alt="Heat Wave Trend Australia" />
+            <div className="visualization-info">
+              <h4>Heat Wave Trend in Australia (30 days)</h4>
+              <p>Analysis of the heat wave trends in Australia over the last 30 days, indicating the intensity and frequency of heat waves.</p>
+            </div>
+          </div>
+        );
+      default:
+        return null;
+    }
+  };
+
   return (
     <div>
       <Header />
       <div className="container">
-        <div className="row">
-          <div className="plot">
-            <h3>Skin Cancer Trend Yearly in Australia</h3>
-            <img src={yearlyTrend} alt="Skin Cancer Trend Yearly" />
-          </div>
-          <div className="plot">
-            <h3>Skin Cancer Trend Statewise (Australia)</h3>
-            <img src={statewiseTrend} alt="Skin Cancer Trend Statewise" />
-          </div>
+        <div className="intro">
+          <h2>UV Impacts Visualization</h2>
+          <p>Understanding the trends in skin cancer and heat waves is crucial for raising awareness and promoting preventive measures. Visualizations help in simplifying complex data, making it accessible and understandable for everyone. Here, you can explore the yearly trends in skin cancer cases in Australia, as well as the recent trends in heat waves. Such insights are invaluable in understanding the impact of UV exposure and the importance of sun protection.</p>
+          <p>Please select a visualization from the dropdown menu below to get started.</p>
         </div>
-        <div className='row-2'>
-        <div className="plot-heat">
-          <h3>Heat Wave Trend in Melbourne (30 days)</h3>
-          <img src={heatWaveTrend} alt="Heat Wave Trend" />
+        <div className="selection">
+          <select
+            value={selectedVisualization}
+            onChange={(e) => setSelectedVisualization(e.target.value)}
+          >
+            <option value="">Select a Visualization</option>
+            <option value="yearlyTrend">Skin Cancer Trend Yearly in Australia</option>
+            <option value="heatWaveTrendAus">Heat Wave Trend in Australia (30 days)</option>
+          </select>
         </div>
-        <div className="plot-heat">
-          <h3>Heat Wave Trend in Australia (30 days)</h3>
-          <img src={heatWaveTrendAus} alt="Heat Wave Trend Australia" />
-        </div>
+        <div className="visualization">
+          {renderVisualization()}
         </div>
       </div>
     </div>
@@ -40,58 +66,3 @@ function Impact() {
 }
 
 export default Impact;
-
-// import React, { useEffect, useState } from 'react';
-// import { Bar } from 'react-chartjs-2';
-// import Header from './header';
-// import data from '../data/skin_incidence.json'; // Adjust the path as necessary
-// import '../css/impact.css';
-
-// function processData(data) {
-//   if (!data || !Array.isArray(data)) {
-//     return { labels: [], datasets: [] }; // Return an empty data structure if the input data is not as expected
-//   }
-//   const years = [...new Set(data.map(item => item.Year))].sort();
-//   const states = [...new Set(data.map(item => item["State or Territory"]))].filter(state => state !== "Australia");
-
-//   const datasets = states.map(state => {
-//     const stateData = data.filter(item => item["State or Territory"] === state);
-//     const counts = years.map(year => {
-//       const yearData = stateData.find(item => item.Year === year);
-//       return yearData ? yearData.Count : 0;
-//     });
-
-//     return {
-//       label: state,
-//       data: counts,
-//       backgroundColor: `rgba(${Math.random()*255}, ${Math.random()*255}, ${Math.random()*255}, 0.5)`,
-//     };
-//   });
-
-//   return {
-//     labels: years,
-//     datasets,
-//   };
-// }
-
-// function Impact() {
-//   const [chartData, setChartData] = useState({});
-
-//   useEffect(() => {
-//     const processedData = processData(data);
-//     setChartData(processedData);
-//   }, []);
-
-//   return (
-//     <div>
-//       <Header />
-//       <div className="container">
-//         <h2>Skin Cancer Trends by State</h2>
-//         <Bar data={chartData} options={{ responsive: true, plugins: { legend: { position: 'top' }, title: { display: true, text: 'Skin Cancer Incidence by State Over the Years' } } }} />
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default Impact;
-

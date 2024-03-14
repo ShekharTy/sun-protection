@@ -1,40 +1,50 @@
+.intro {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 1700px; 
+  text-align: left;
+  background-color: #f0f0f0; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .row {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .row-2 {
-    display: flex;
-    justify-content: center;
-    width: 90%;
-  }
-  .plot {
-    margin: 20px;
-    text-align: center;
-  }
-  
-  .plot img {
-    width: 100%;
-    max-width: 600px; 
-    height: auto; 
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-  .plot-heat img{
-    width: 100%;
-    max-width: 800px; 
-    height: auto; 
-    
-  }
+.visualization-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin-top: 20px;
+  width: 98%;
+  margin-left: 20px;
+}
 
-  .plot-heat{
-    text-align: center;
-    margin: 20px;
-  }
-  
+.visualization-info {
+  margin-left: 20px;
+}
+
+.visualization-info h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+}
+
+.visualization-info p {
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+.visualization {
+  justify-content: space-around;
+  width: 1820px;
+}
+
+.selection select {
+  width: 700px; 
+  height: 50px;
+  margin-top: 20px;
+}

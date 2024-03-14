@@ -6,7 +6,6 @@ import UVImpact from './components/impact';
 import Sunprotect from './components/sunprotect';
 import UseSunscreen from './components/use-sunscreen';
 import UVLevels from './components/uvlevel';
-import Usage from './components/sunscreen-usage';
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/uvlevel" element={<UVLevels />} />
         <Route path="/impact" element={<UVImpact />} />
-        <Route path="/sunscreen-usage" element={<Usage />} />
         <Route path="/sunprotect" element={<Sunprotect />} />
         <Route path="/use-sunscreen" element={<UseSunscreen />} />
       </Routes>

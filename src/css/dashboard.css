@@ -62,3 +62,12 @@ img {
     color: white;
     padding: 2%;
 }
+
+.info-button {
+    background-color: #FAFF00; 
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
