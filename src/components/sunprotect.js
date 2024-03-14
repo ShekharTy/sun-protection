@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import Header from './header';
 import '../css/sunprotect.css';
 import uvRecommendations from '../data/uv_recommend.json';
-import sunprotection from '../data/Sun protection.png';
-import sunscreen from '../data/Sunscreen.png';
+import sunprotection from '../data/effective sun protection 2.png';
+
 
 function Sunprotect() {
   const [uvLevel, setUvLevel] = useState('');
@@ -47,7 +47,7 @@ function Sunprotect() {
           onChange={e => setUvLevel(e.target.value)}
           placeholder="Enter your UV level"
         />
-        <button onClick={handleEnter}>Enter</button>
+        <button className='enter' onClick={handleEnter}>Enter</button>
 
         {/* Display error message if present */}
         {errorMessage && <p className="error-message">{errorMessage}</p>}
@@ -75,7 +75,6 @@ function Sunprotect() {
         )}
         <div className="images-container">
           <img src={sunprotection} alt='Sun Protection Information' />
-          <img src={sunscreen} alt='Sun Screen Information' />
         </div>
       </div>
     </div>
